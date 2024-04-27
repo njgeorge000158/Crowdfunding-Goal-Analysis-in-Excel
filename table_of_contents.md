@@ -1,8 +1,8 @@
-# Crowdfunding Goal Analysis In Excel
+# Crowdfunding-Goal-Analysis-In-Excel
 
 ----
 
-## Table of Contents (CrowdfundingAnalysis.xlsx)
+## Table of Contents (crowd_funding_analysis)
 
 ----
 
