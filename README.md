@@ -16,6 +16,8 @@
 
 Since the late 2000s, crowdfunding has been growing in success and popularity.  As a result, many people are now using this practice to launch new products and generate publicity.  In this challenge, I analyze crowdfunding data from a database of 1,000 sample campaigns to better understand its trends.  As the first step, I use spreadsheets to create the requisite tables and graphs: Crowdfunding,  Primary Category by Outcomes, Sub-Category by Outcomes, Months by Outcomes, Campaign Summary, and Statistical Analysis (Goals).
 
+<img width="1491" alt="outcomes_percent_categories" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/81d88416-6b04-41d6-b250-03a1f477d0c9">
+
 Subsequently, I merge the pivot tables from the Primary Category by Outcomes and Sub-Category by Outcomes and calculated the likelihood of a successful campaign per category; but omit primary categories and sub-categories with less than five campaigns: due to low numbers, these categories provide an insufficient sample space for evaluation.  From my observations, a crowdfunding campaign in a primary category has a 56% chance of success with Technology, Photography, and Publishing at the top; sub-category campaigns also have a 56% chance of funding where Web (Technology), Translations (Publishing), and Television (Film & Video) are the leaders.  In terms of sheer numbers, Theater, Film & Video, and Music are the most popular primary categories by significant margins; Plays (Theater), Rock (Music), and Documentary (Film & Video) are the most sought-after sub-categories.  Although this effort divulges some insights, there is still an incomplete picture.
 
 
