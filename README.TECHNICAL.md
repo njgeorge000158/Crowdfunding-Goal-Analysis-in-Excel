@@ -100,6 +100,8 @@ MS Excel
 
   &emsp; |&rarr; [./images/percent_funded_categories.png](./images/percent_funded_categories.png)
 
+  &emsp; |&rarr; [./images/percent_funded_successful_categories.png](./images/percent_funded_successful_categories.png)
+
   &emsp; |&rarr; [./images/README.md](./images/README.md)
 
   &emsp; |&rarr; [./images/statistical_analysis_backers.png](./images/statistical_analysis_backers.png)
