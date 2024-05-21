@@ -28,11 +28,23 @@
 
 Since the late 2000s, crowdfunding has been growing in success and popularity.  As a result, many people are now using this practice to launch new products and generate publicity.  In this challenge, I analyze crowdfunding data from a database of 1,000 sample campaigns to better understand its trends.  As the first step, I use spreadsheets to create the requisite tables and graphs: Crowdfunding,  Primary Category by Outcomes, Sub-Category by Outcomes, Months by Outcomes, Campaign Summary, and Statistical Analysis (Goals).
 
+----
+
 <img width="1491" alt="outcomes_percent_categories" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/81d88416-6b04-41d6-b250-03a1f477d0c9">
+
+----
 
 Subsequently, I merge the pivot tables from the Primary Category by Outcomes and Sub-Category by Outcomes and calculated the likelihood of a successful campaign per category; but omit primary categories and sub-categories with less than five campaigns: due to low numbers, these categories provide an insufficient sample space for evaluation.  From my observations, a crowdfunding campaign in a primary category has a 56% chance of success with Technology, Photography, and Publishing at the top; sub-category campaigns also have a 56% chance of funding where Web (Technology), Translations (Publishing), and Television (Film & Video) are the leaders.  In terms of sheer numbers, Theater, Film & Video, and Music are the most popular primary categories by significant margins; Plays (Theater), Rock (Music), and Documentary (Film & Video) are the most sought-after sub-categories.  Although this effort divulges some insights, there is still an incomplete picture.
 
+----
+
 <img width="1434" alt="percent_funded_categories" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/72226338-b63d-4451-b6a0-f4799d50e69d">
+
+----
+
+<img width="1432" alt="percent_funded_successful_categories" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/c37eddd7-ff6c-4eb6-ba78-4b08f33ac583">
+
+----
 
 To inquire further, I create a pivot table with crowdfunding categories versus the sum of campaign goals, the sum of pledged contributions, and the percent of pledged contributions over the goals.  Percent funded above the goal for all campaigns regardless of status or outcome is 97% with Technology, Music, and Theater at the top; the highest sub-categories are Metal (Music), Wearables (Technology), and Jazz (Music).  For successful projects, the overall funding rate is 191% with the primary categories of Food, Games, and Photography and the sub-categories of Metal (Music), Jazz (Music), and Science Fiction (Film & Video) being the highest: in particular, among primary categories, successful Games and Food campaigns receive 2.1 and 2.3 times their goals; among sub-categories, successful Jazz (Music) and Metal (Music) campaigns receive 3.5 and 4.4 times their goals respectively.
 
