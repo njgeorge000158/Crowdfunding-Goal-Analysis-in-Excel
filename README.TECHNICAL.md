@@ -14,7 +14,7 @@ The only dependency this analysis requires is an installation of MS Excel.
 
 ----
 
-The completed analysis is in the MS Excel Workbook, crowdfunding_analysis.xlsx; the folder, images, contains images from the Excel Workbook; and the folder, resources has the unprocessed starter Excel Workbook.  The report is in the text file, README.md, and the MS Word Document, crowdfunding_analysis.docx.
+The completed analysis is in the MS Excel Workbook crowdfunding_analysis.xlsx; the folder images contains images from the Excel Workbook; and the folder resources has the unprocessed starter Excel Workbook.  The report is in the text file README.md.
 
 ----
 
