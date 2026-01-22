@@ -52,8 +52,6 @@ MS Excel
 
 #### main branch 
 
-|&rarr; [./crowdfunding_analysis.docx](./crowdfunding_analysis.docx)
-
 |&rarr; [./crowdfunding_analysis.xlsx](./crowdfunding_analysis.xlsx)
 
 |&rarr; [./README.TECHNICAL.md](./README.TECHNICAL.md)
