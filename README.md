@@ -1,118 +1,58 @@
 ![crowdfunding_goal_analysis1](https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/748d13b8-fe17-4c3d-9f87-987078ea9a33)
 
-----
+---
 
-# Crowdfunding Goal Analysis Report
+**Crowdfunding Campaign Analysis: Trends, Insights, and Limitations**
 
-----
+**Background and Approach**
 
-<img width="1237" alt="campaign_status_by_category" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/8bd3954d-2ea3-4079-b7f7-f91e9a4bd694">
+Since the late 2000s, crowdfunding has grown into a widely adopted mechanism for launching new products, validating ideas, and generating public interest. To better understand the dynamics driving campaign success, I analyzed a database of 1,000 sample crowdfunding campaigns. Using spreadsheet-based tools, I constructed six analytical worksheets — Crowdfunding, Primary Category by Outcomes, Sub-Category by Outcomes, Months by Outcomes, Campaign Summary, and Statistical Analysis (Goals) — and derived additional tables and visualizations to explore trends across categories, timing, funding levels, and backer distributions.
 
-----
+**Category Performance: Popularity vs. Success**
 
-<img width="1720" alt="campaign_status_by_subcategory" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/510248e8-45ca-410f-bf10-2b0b5945384b">
+Merging pivot tables from the Primary Category and Sub-Category worksheets, and excluding any category with fewer than five campaigns due to insufficient sample size, I calculated the likelihood of success by category. Overall, crowdfunding campaigns succeed at a rate of 56%, whether measured at the primary or sub-category level. Among primary categories, Technology, Photography, and Publishing lead in success rate. At the sub-category level, Web (Technology), Translations (Publishing), and Television (Film & Video) rank highest.
 
-----
+Volume tells a different story. Theater, Film & Video, and Music dominate in sheer campaign numbers, with Plays, Rock, and Documentary being the most pursued sub-categories. This divergence between popularity and success rate points to one of the analysis's central conclusions: the categories that attract the most campaigns are not necessarily the ones most likely to succeed.
 
-<img width="1262" alt="outcomes_months" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/8b275a69-a911-4851-8c74-7933f305b661">
+**Funding Rates: All Campaigns vs. Successful Ones**
 
-----
+To go beyond outcome counts, I constructed a pivot table comparing campaign goals against pledged contributions across categories. For all campaigns regardless of outcome, the overall funding rate — pledged contributions as a percentage of stated goals — is 97%. Technology, Music, and Theater lead among primary categories, while Metal (Music), Wearables (Technology), and Jazz (Music) top the sub-category rankings.
 
-<img width="1600" alt="campaign_summary" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/1cb0333e-140f-4e62-badc-4af1bd675528">
+The picture shifts considerably when the analysis is restricted to successful campaigns alone. Here, the overall funding rate rises to 191%, meaning successful campaigns receive nearly double their stated goals on average. Food and Games stand out among primary categories, with successful campaigns in those fields receiving 2.3 and 2.1 times their goals, respectively. At the sub-category level, the results are even more pronounced: successful Metal (Music) campaigns receive 4.4 times their goals, and successful Jazz (Music) campaigns receive 3.5 times — suggesting that niche audiences, when engaged, can drive exceptional funding outcomes.
 
-----
+**Timing and Monthly Trends**
 
-<img width="1686" alt="statistical_analysis_goals" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/5277ee76-892b-4531-9c4d-8a779aa4d574">
+A raw view of the Months by Outcomes worksheet offered little immediate insight, as absolute counts are difficult to interpret without normalization. Converting these figures into monthly success rates — in a dedicated Months by Outcomes (%) worksheet — revealed a clearer pattern. Success rates range from 49% to 64% across the calendar year, rising steadily from January through June, plateauing through September, then declining into year-end. Two notable exceptions disrupt this trend: success rates drop sharply in May and August, falling 5% and 13% from their respective prior months. These anomalies notwithstanding, the broader seasonal pattern suggests that campaign timing is a meaningful lever — one that creators can strategically exploit to improve their odds of success.
 
-----
+**Goal Ranges and Sample Size Constraints**
 
-Since the late 2000s, crowdfunding has been growing in success and popularity.  As a result, many people are now using this practice to launch new products and generate publicity.  In this challenge, I analyze crowdfunding data from a database of 1,000 sample campaigns to better understand its trends.  As the first step, I use spreadsheets to create the requisite tables and graphs: Crowdfunding,  Primary Category by Outcomes, Sub-Category by Outcomes, Months by Outcomes, Campaign Summary, and Statistical Analysis (Goals).
+The Campaign Summary worksheet examines success rates across ranges of campaign goals. The line chart shows success rates increasing as goals rise from $0 to $15,000, leveling off between $15,000 and $34,999, and declining from $35,000 onward. However, this pattern must be interpreted with caution. The three lowest goal ranges account for the vast majority of campaigns — two categories contain hundreds of projects each, and one contains roughly fifty — while every category at or above $10,000 comprises fewer than 15 campaigns. These thin sample sizes at higher goal thresholds render the observed trends statistically unreliable. This data sparsity problem is not isolated to the Campaign Summary; it recurs elsewhere in the dataset and meaningfully constrains the conclusions that can be drawn.
 
-----
+**Statistical Distributions and the Case for the Median**
 
-<img width="1491" alt="outcomes_percent_categories" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/81d88416-6b04-41d6-b250-03a1f477d0c9">
+The Statistical Analysis (Goals) worksheet presents distributions of backer counts for successful and unsuccessful campaigns. Both distributions exhibit wide ranges between minimum and maximum values, large variances, and substantial divergence between mean and median values. When the mean and median diverge as significantly as they do here, it signals that outliers are distorting the average, pulling it away from the typical value. In such cases, the median is the more appropriate and informative measure of central tendency. Unfortunately, the existing calculations rely on averages throughout — a methodological choice that undermines the accuracy of the reported figures.
 
-----
+Beyond the measure-of-center issue, the variance analysis reveals an asymmetry between outcomes: successful campaigns exhibit considerably greater variance in backer counts than unsuccessful ones. This makes intuitive sense. Unsuccessful campaigns tend to attract few or no backers, clustering the distribution near zero. Successful campaigns, by contrast, draw backers across a wide spectrum — from modest community support to viral audience mobilization — producing a far more dispersed distribution.
 
-Subsequently, I merge the pivot tables from the Primary Category by Outcomes and Sub-Category by Outcomes and calculate the likelihood of a successful campaign per category, but omit primary categories and sub-categories with less than five campaigns: due to low numbers, these categories provide an insufficient sample space for evaluation.  From my observations, a crowdfunding campaign in a primary category has a 56% chance of success with Technology, Photography, and Publishing at the top; sub-category campaigns also have a 56% chance of funding where Web (Technology), Translations (Publishing), and Television (Film & Video) are the leaders.  In terms of sheer numbers, Theater, Film & Video, and Music are the most popular primary categories by significant margins; Plays (Theater), Rock (Music), and Documentary (Film & Video) are the most sought-after sub-categories.  Although this effort divulges some insights, there is still an incomplete picture.
+**Additional Analyses Worth Pursuing**
 
-----
+Three supplementary analyses could meaningfully deepen this investigation. First, a table comparing countries against the percentage of successful campaigns would reveal whether geography is a determinant of crowdfunding success. Second, charting the percentage of successful campaigns by year would clarify whether the phenomenon is growing, plateauing, or following a cyclical pattern. Third, examining the standard deviations of goals and pledged contributions by outcome category surfaces an intriguing anomaly: in every outcome except successful campaigns, the standard deviation of goals exceeds that of pledged contributions. For successful campaigns, the relationship reverses. Moreover, the standard deviation of campaign goals is notably lower for successful campaigns than for all other outcomes — a departure that warrants further investigation and may reflect more disciplined goal-setting among campaigns that ultimately succeed.
 
-<img width="1434" alt="percent_funded_categories" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/72226338-b63d-4451-b6a0-f4799d50e69d">
+**Conclusions**
 
-----
+This analysis yields three principal conclusions:
 
-<img width="1432" alt="percent_funded_successful_categories" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/c37eddd7-ff6c-4eb6-ba78-4b08f33ac583">
+- **Popularity does not predict success.** The most active crowdfunding categories by campaign volume are not the most likely to succeed. Creators should not interpret a crowded category as validation of strong success prospects.
 
-----
+- **Timing matters.** Monthly success rates follow a discernible seasonal pattern. Campaigns launched in strategic windows — particularly the summer plateau period — may benefit from more favorable conditions.
 
-To inquire further, I create a pivot table with crowdfunding categories versus the sum of campaign goals, the sum of pledged contributions, and the percent of pledged contributions over the goals.  Percent funded above the goal for all campaigns regardless of status or outcome is 97% with Technology, Music, and Theater at the top; the highest sub-categories are Metal (Music), Wearables (Technology), and Jazz (Music).  For successful projects, the overall funding rate is 191% with the primary categories of Food, Games, and Photography and the sub-categories of Metal (Music), Jazz (Music), and Science Fiction (Film & Video) being the highest: in particular, among primary categories, successful Games and Food campaigns receive 2.1 and 2.3 times their goals; among sub-categories, successful Jazz (Music) and Metal (Music) campaigns receive 3.5 and 4.4 times their goals, respectively.
+- **Successful campaigns are more variable than unsuccessful ones.** The backer distributions for successful campaigns are broadly dispersed, while those for unsuccessful campaigns are tightly clustered near zero. Both distributions are heavily skewed, making the median a far more appropriate summary statistic than the mean — a distinction this dataset, regrettably, does not honor.
 
-----
+**Limitations and Recommendations**
 
-<img width="1262" alt="outcomes_months" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/83fa5667-d15c-4e2f-b521-e03c5ba128a9">
+The utility of this analysis is constrained by two structural weaknesses: the inappropriate use of averages in place of medians, and insufficient sample sizes in several key categories. Together, these factors introduce uncertainty into the findings and limit their generalizability.
 
-----
-
-<img width="1262" alt="outcomes_percent_months" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/5a0c9a46-6221-48a0-bd92-843e4cbe3525">
-
-----
-
-A cursory glance at the worksheet, Months by Outcomes, yields no immediate impressions: the static nature of these metrics call for transformation into a more apprehensible form.  To this end, I create another worksheet, Months by Outcomes (%), to visualize the changes in rates from month-to-month.  For successful campaigns, these rates vary from 49% to 64% where they rise from January to June, plateau until September, then steadily decline.  This trend has glaring exceptions in May and August where the rates plummet 5% and 13% from the previous month.  In this context, it appears that the possibility of a successful campaign can be increased through timing.
-
-----
-
-<img width="1601" alt="campaign_summary" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/5ca52297-d3b3-4cf1-a7ae-c2e60ab3c309">
-
-----
-
-In the worksheet, Campaign Summary, I examine outcomes based on ranges of goals only to encounter specious results.  In the line chart, the success rate increases as the funding moves from $0 to $15,000, levels off between $15,000 and $34,999, and then declines from $35,000 on.  Overwhelmingly, the lowest three categories have the highest number of projects: all the categories equal to or above $10,000 have less than 15 projects compared to those below $10,000, which have two categories with hundreds of projects and one with about fifty.  For the larger goals, these low numbers of campaigns per category provide an insufficient sample space, which challenges the integrity of the analysis results; unfortunately, these circumstances are present in other parts of the data set as well.
-
-----
-
-<img width="1682" alt="statistical_analysis_backers" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/418db1b5-2cf8-4c1f-b94a-7743ae65023f">
-
-----
-
-<img width="1683" alt="statistical_analysis_duration" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/f508dd69-c907-437c-ad29-e01cfb86b66e">
-
-----
-
-<img width="1686" alt="statistical_analysis_goals" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/bf4c9670-2a6f-4686-b794-c5158dc495e4">
-
-----
-
-<img width="1691" alt="statistical_analysis_pledges" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/748bef18-8ed2-4cf2-ac98-b939b7d6f1a9">
-
-----
-
-For successful and unsuccessful campaigns, the worksheet, Statistical Analysis (Goals), exhibits distributions for the number of financial backers with significant ranges between minimum and maximum values, large variances, and considerable differences between average and median values.  When the average and median values deviate as they do in this case, the average has been shifted due to the effect of outliers skewing the distribution, and the mean no longer is an adequate representation of the typical or middle value: in this instance, the median becomes the more suitable measure and best summarizes the data.  Regrettably, these calculations employ averages when they should apply medians.  Moreover, the variances for successful campaigns are larger and, consequently, indicate more variability than those for unsuccessful ones.  Clearly, variance measures heterogeneity: a higher variance signifies the values are more spread out, and a lower variance denotes that the values are closer together.  This determination makes sense because there is a broad spectrum of backers for successfully funded campaigns while unsuccessful ones have concentrated numbers of backers closer to and including zero. 
-
-----
-
-<img width="1084" alt="outcomes_percent_countries" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/f2981af0-40c9-4928-8b07-399772068747">
-
-----
-
-<img width="1173" alt="outcomes_percent_years" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/f334c3dd-8efd-4837-b7a0-c2936016cdc6">
-
-----
-
-<img width="955" alt="std_dev_goal_pledge_outcomes" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/00c88429-a98d-43ea-8bab-4e239d84a8fb">
-
-----
-
-Above and beyond this analysis, there are other tables and/or graphs that can potentially aid in better understanding crowdfunding.  For the sake of brevity, I mention only three: countries vs. percent of successful campaigns, year vs. percent of successful campaigns, and outcomes vs. standard deviations of goals and pledged contributions.  In countries vs. percent of successful campaigns, the table and graph reveal if campaigns are more likely to succeed in one country over another.  For year vs. percent of successful campaigns, the calculations demonstrate whether this phenomenon is becoming increasingly more popular or following a cyclical pattern.  Finally, outcomes by the standard deviations of goals and pledged contributions illustrate if anything differentiates distributions for a successful campaign over the alternatives. Here, there is a peculiarity: the standard deviation of campaign goals is greater than the standard deviation of pledged contributions in all cases except successful campaigns where the reverse occurs.  What’s more, the standard deviation for a campaign goal is approximately the same for all outcomes except successful campaigns where it drops precipitously.
-
-Everything considered, along with obvious deductions about success and funding trends, I draw the following three conclusions about crowdfunding campaigns.
-
-•	The probability of a successful campaign in a certain category is not related to popularity: the categories with the most campaigns are not necessarily the most successful ones.
-	
-•	The likelihood of a successful campaign can be increased through timing.
-
-•	The variance in successful campaigns is greater than that of unsuccessful ones because the values in the distribution are more spread out in the former and congregated and closer to zero in the latter.  
-
-Furthermore, the two distributions of backers, for successful and unsuccessful campaigns, are heavily skewed, which the egregious deviation in average and median values conveys.  Although the median is a better measure of central tendency, this analysis instead applies the average.  This situation coupled with insufficient sample spaces limits the utility of this dataset.  Ultimately, this investigation yielded practical results, but the limitations of this dataset render those results suspect.  In the future, I would suggest a similar analysis with more tables and graphs on a much larger data set – preferably, one to two orders of magnitude larger – using medians for calculations instead of averages.
+Future analyses should address these shortcomings directly. A dataset one to two orders of magnitude larger would provide the statistical depth needed to support more robust conclusions. All central tendency calculations should employ medians rather than means, given the skewed nature of the underlying distributions. With those adjustments in place, the analytical framework developed here could yield significantly more reliable and actionable insights.
 
 ----
 
