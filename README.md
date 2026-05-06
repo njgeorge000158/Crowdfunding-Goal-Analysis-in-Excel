@@ -8,13 +8,36 @@
 
 ## **Background and Approach**
 
-Since the late 2000s, crowdfunding has grown into a widely adopted mechanism for launching new products, validating ideas, and generating public interest. To better understand the dynamics driving campaign success, I analyzed a database of 1,000 sample crowdfunding campaigns. Using spreadsheet-based tools, I constructed six analytical worksheets — Crowdfunding, Primary Category by Outcomes, Sub-Category by Outcomes, Months by Outcomes, Campaign Summary, and Statistical Analysis (Goals) — and derived additional tables and visualizations to explore trends across categories, timing, funding levels, and backer distributions.
+Since the late 2000s, crowdfunding has grown into a widely adopted mechanism for launching products, validating ideas, and mobilizing public support. To better understand the factors driving campaign success, this report analyzes a sample of **1,000 crowdfunding campaigns** drawn from a standardized dataset. The analysis uses spreadsheet-based tools and covers outcomes across categories, timing, goal ranges, geographic markets, and backer distributions. Where the data permits, results are presented using medians rather than means, given the heavily skewed nature of most distributions.  
+
+## Overall Outcomes
+
+Of the 1,000 campaigns in the sample, **565 (56.5%) were successful**, 364 (36.4%) failed, 57 (5.7%) were canceled, and 14 (1.4%) remained live at the time of analysis. The overall success rate provides the baseline against which the report evaluates category, timing, and structural factors.
+
 
 ## **Category Performance: Popularity vs. Success**
 
-Merging pivot tables from the Primary Category and Sub-Category worksheets, and excluding any category with fewer than five campaigns due to insufficient sample size, I calculated the likelihood of success by category. Overall, crowdfunding campaigns succeed at a rate of 56%, whether measured at the primary or sub-category level. Among primary categories, Technology, Photography, and Publishing lead in success rate. At the sub-category level, Web (Technology), Translations (Publishing), and Television (Film & Video) rank highest.
+One of the clearest patterns in the data is the **divergence between campaign volume and success rate**. Specifically, the categories that attract the most campaigns are not the ones most likely to succeed.
 
-Volume tells a different story. Theater, Film & Video, and Music dominate in sheer campaign numbers, with Plays, Rock, and Documentary being the most pursued sub-categories. This divergence between popularity and success rate points to one of the analysis's central conclusions: the categories that attract the most campaigns are not necessarily the ones most likely to succeed.
+At the primary category level, **Technology (66.7%), Photography (61.9%), and Publishing (59.7%)** lead in success rate. Theater, Film & Video, and Music — the three most popular categories by volume, accounting for nearly 70% of all campaigns in the sample — succeed at rates of 54.4%, 57.3%, and 56.6%, respectively, all below or near the overall average.
+
+| Primary Category | Campaigns | Success Rate |
+|------------------|:---------:|:------------:|
+| Technology       | 96        | 66.7%        |
+| Photography      | 42        | 61.9%        |
+| Publishing       | 67        | 59.7%        |
+| Film & Video     | 178       | 57.3%        |
+| Music            | 175       | 56.6%        |
+| Theater          | 344       | 54.4%        |
+| Food             | 46        | 47.8%        |
+| Games            | 48        | 43.8%        |
+| Journalism       | 4         | 100% †       |
+
+*† Journalism contains only 4 campaigns — too small a sample to draw reliable conclusions.*
+
+At the sub-category level (excluding sub-categories with fewer than five campaigns), the highest-performing segments are **Web / Technology (70.6%), Translations / Publishing (66.7%), Television / Film & Video (64.7%), and Wearables / Technology (62.2%)**. The most popular sub-categories — Plays, Rock, and Documentary — succeed at 54.2%, 57.6%, and 56.7%, respectively.
+
+Creators should not interpret a crowded category as a signal of strong success prospects. Technology and Photography succeed at rates materially above the overall average despite drawing far fewer campaigns than Theater or Music.
 
 ## **Funding Rates: All Campaigns vs. Successful Ones**
 
