@@ -8,7 +8,7 @@
 
 ## **Background and Approach**
 
-Since the late 2000s, crowdfunding has grown into a widely adopted mechanism for launching products, validating ideas, and mobilizing public support. To better understand the factors driving campaign success, this report analyzes a sample of **1,000 crowdfunding campaigns** drawn from a standardized dataset. The analysis uses spreadsheet-based tools and covers outcomes across categories, timing, goal ranges, geographic markets, and backer distributions. Where the data permits, results are presented using medians rather than means, given the heavily skewed nature of most distributions.  
+Since the late 2000s, crowdfunding has grown into a widely adopted mechanism for launching products, validating ideas, and mobilizing public support. To better understand the factors driving campaign success, this report analyzes a sample of 1,000 crowdfunding campaigns drawn from a standardized dataset. The analysis uses spreadsheet-based tools and covers outcomes across categories, timing, goal ranges, geographic markets, and backer distributions. Where the data permits, results are presented using medians rather than means, given the heavily skewed nature of most distributions.  
 
 ## Overall Outcomes
 
