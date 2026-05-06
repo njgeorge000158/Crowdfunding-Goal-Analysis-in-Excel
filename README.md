@@ -12,7 +12,7 @@ Since the late 2000s, crowdfunding has grown into a widely adopted mechanism for
 
 ## Overall Outcomes
 
-Of the 1,000 campaigns in the sample, **565 (56.5%) were successful**, 364 (36.4%) failed, 57 (5.7%) were canceled, and 14 (1.4%) remained live. The overall success rate provides the baseline against which the report evaluates category, timing, and structural factors.
+Of the 1,000 campaigns in the sample, 565 (56.5%) were successful, 364 (36.4%) failed, 57 (5.7%) were canceled, and 14 (1.4%) remained live. The overall success rate provides the baseline against which the report evaluates category, timing, and structural factors.
 
 
 ## **Category Performance: Popularity vs. Success**
