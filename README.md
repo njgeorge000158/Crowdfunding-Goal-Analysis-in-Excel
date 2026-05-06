@@ -35,7 +35,7 @@ Of the 1,000 campaigns in the sample, 565 (56.5%) were successful, 364 (36.4%) f
 
 ---
 
-One of the clearest patterns in the data is the divergence between campaign volume and success rate. At the primary category level, Technology, Photography, and Publishing are the most successful categories, yet Theater, Film & Video, and Music are all below or near the average success rate despite being the three most popular categories by volume and accounting for nearly 70% of all campaigns. For sub-categories, the highest-performing segments are Web / Technology (70.6%), Translations / Publishing (66.7%), Television / Film & Video (64.7%), and Wearables / Technology (62.2%). Notably, the subcategories also follow the same trend with a few exceptions. Thus, creators should not interpret a crowded category or subcategory as a signal of strong success prospects.
+One of the clearest patterns in the data is the divergence between campaign volume and success rate. At the primary category level, Technology, Photography, and Publishing are the most successful categories, yet Theater, Film & Video, and Music are all near or below the average success rate (56.0%) despite being the three most popular categories by volume and accounting for nearly 70% of all campaigns. In the sub-categories, the highest-performing segments are Web / Technology (70.6%), Translations / Publishing (66.7%), Television / Film & Video (64.7%), and Wearables / Technology (62.2%). Notably, the subcategories also follow the same trend with a few exceptions. Thus, creators should not interpret a crowded category or subcategory as a signal of strong success prospects.
 
 ## **Funding Rates: All Campaigns vs. Successful Ones**
 
