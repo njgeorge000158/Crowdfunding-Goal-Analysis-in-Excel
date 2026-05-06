@@ -39,7 +39,7 @@ One of the clearest patterns in the data is the divergence between campaign volu
 
 ## **Funding Rates: All Campaigns vs. Successful Ones**
 
-Across all 1,000 campaigns, the median funding rate — pledged contributions as a proportion of the stated goal — is 1.22x (i.e., campaigns raise about 22% more than their median goal), which, due to a small number of exceptionally over-funded campaigns, is substantially lower than the mean funding rate, 2.00x. This significant divergence between mean and median from these outliers endorses the median as the preferred method for measuring central tendency.
+Across all 1,000 campaigns, the median funding rate — pledged contributions as a proportion of the stated goal — is 1.22x (i.e., campaigns raise about 22% more than their median goal), which, due to a small number of exceptionally over-funded campaigns, is substantially lower than the mean funding rate, 2.00x. The significant divergence between mean and median endorses the median as the preferred method for measuring central tendency.
 
 The picture shifts considerably when the analysis is restricted to successful campaigns alone, increasing the median funding rate to 2.12x. Food (3.29x) and Photography (2.55x) lead among primary categories, followed by Games (2.39x) and Publishing (2.28x). Technology, despite its high success rate, has the lowest median funding ratio among successful campaigns (2.00x), suggesting that technology campaigns tend to hit their targets more precisely rather than dramatically exceeding them. 
 
