@@ -39,6 +39,11 @@ One of the clearest patterns in the data is the divergence between campaign volu
 
 ## **Funding Rates: All Campaigns vs. Successful Ones**
 
+Across all 1,000 campaigns, the median funding rate — pledged contributions as a proportion of the stated goal — is 1.22x (i.e., campaigns raise about 22% more than their median goal), which is substantially higher than the mean funding rate, 2.00x, reflecting the influence of a small number of exceptionally over-funded campaigns. 
+
+The picture shifts considerably when the analysis is restricted to successful campaigns alone increasing the median duncting rate to 2.12x. 
+
+
 To go beyond outcome counts, I constructed a pivot table comparing campaign goals against pledged contributions across categories. For all campaigns regardless of outcome, the overall funding rate — pledged contributions as a percentage of stated goals — is 97%. Technology, Music, and Theater lead among primary categories, while Metal (Music), Wearables (Technology), and Jazz (Music) top the sub-category rankings.
 
 The picture shifts considerably when the analysis is restricted to successful campaigns alone. Here, the overall funding rate rises to 191%, meaning successful campaigns receive nearly double their stated goals on average. Food and Games stand out among primary categories, with successful campaigns in those fields receiving 2.3 and 2.1 times their goals, respectively. At the sub-category level, the results are even more pronounced: successful Metal (Music) campaigns receive 4.4 times their goals, and successful Jazz (Music) campaigns receive 3.5 times — suggesting that niche audiences, when engaged, can drive exceptional funding outcomes.
