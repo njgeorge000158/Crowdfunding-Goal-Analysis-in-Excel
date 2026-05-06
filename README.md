@@ -47,7 +47,7 @@ At the sub-category level, the over-funding effect is particularly pronounced in
 
 ## Goal Size and Success
 
-Goal size is among the strongest structural predictors of campaign outcome. The data reveal a non-linear relationship: success rates are high at both low and moderate goal levels, but drop sharply at high goals.
+Goal size is among the strongest structural predictors of campaign outcomes. The data reveal a non-linear relationship: success rates are high at both low and moderate goal levels, but drop sharply at high goals.
 
 | Goal Range          | Campaigns | Success Rate |
 |---------------------|:---------:|:------------:|
