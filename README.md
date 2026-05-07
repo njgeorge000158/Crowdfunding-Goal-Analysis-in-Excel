@@ -39,7 +39,7 @@ One of the clearest patterns in the data is the divergence between campaign volu
 
 ## **Funding Rates: All Campaigns vs. Successful Ones**
 
-Across all 1,000 campaigns, the median funding ratio — pledged contributions as a proportion of the stated goal — is 1.22x (i.e., campaigns raise about 22% more than their median goal), which, due to a small number of exceptionally over-funded campaigns, is substantially lower than the mean funding ratio, 2.00x. The significant divergence between mean and median endorses the median as the preferred method for measuring central tendency.
+Across all 1,000 campaigns, the median funding ratio - the median percent funded multiplied by 100 - is 1.22x (i.e., campaigns raise about 22% more than their median goal), which, due to a small number of exceptionally over-funded campaigns, is substantially lower than the mean funding ratio, 2.00x. The significant divergence between mean and median endorses the median as the preferred method for measuring central tendency.
 
 The picture shifts considerably when the analysis is restricted to successful campaigns alone, increasing its median to 2.12x. Food (3.29x) and Photography (2.55x) lead among primary categories, followed by Games (2.39x) and Publishing (2.28x). Technology, despite its high success rate, has the lowest median funding ratio among successful campaigns (2.00x), suggesting that technology campaigns tend to hit their targets more precisely rather than dramatically exceeding them. 
 
@@ -47,22 +47,22 @@ At the sub-category level, the over-funding effect is particularly pronounced in
 
 ## Goal Size and Success
 
-Goal size is among the strongest structural predictors of campaign outcomes. The data reveal a non-linear relationship: success rates are high at both low and moderate goal levels, but drop sharply at high goals.
+---
 
 | Goal Range          | Campaigns | Success Rate |
 |---------------------|:---------:|:------------:|
-| Under $5,000        | 293       | 77.8%        |
-| $5,000 – $10,000    | 316       | 50.3%        |
-| $10,000 – $15,000   | 2         | n/a †        |
-| $15,000 – $35,000   | 39        | 92.3%        |
-| $35,000 – $100,000  | 158       | 60.8%        |
+| Under $5,000        | 285       | 77.5%        |
+| $5,000 – $10,000    | 317       | 51.7%        |
+| $10,000 – $15,000   | 9         | n/a †        |
+| $15,000 – $35,000   | 38        | 92.1%        |
+| $35,000 – $100,000  | 159       | 61.0%        |
 | Over $100,000       | 192       | 22.9%        |
 
 *† Only 2 campaigns in this range — insufficient for a reliable estimate.*
 
-The most striking finding is at the extremes. Campaigns with goals above $100,000 succeed at just **22.9%** — well below the overall average and roughly one-third the rate of campaigns under $5,000. The high success rate in the $15,000–$35,000 band should be interpreted cautiously given the small sample (39 campaigns).
+---
 
-Consistent with this pattern, the median goal for successful campaigns ($6,200) is markedly lower than for failed campaigns ($9,900) and dramatically lower than for canceled campaigns ($36,400). **More disciplined, realistic goal-setting appears to be a characteristic of campaigns that succeed**, rather than simply a byproduct of it.
+Goal size is among the strongest structural predictors of campaign outcomes. The data reveals a non-linear relationship in which success rates are high at both low and moderate goal levels but drop sharply at high goals. Campaigns with goals above $100,000 succeed at just 22.9%, well below the overall average (56.6%) and roughly one-third the rate of campaigns under $5,000. The high success rate in the $15,000–$35,000 band should be interpreted cautiously given the small sample (39 campaigns). Consistent with this pattern, the median goal for successful campaigns ($6,200) is markedly lower than for failed campaigns ($9,900) and dramatically lower than for canceled campaigns ($36,400). Ultimately, more disciplined, realistic goal-setting appears to be a characteristic of campaigns that succeed rather than simply a byproduct of it.
 
 ## **Timing and Monthly Trends**
 
