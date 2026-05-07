@@ -68,7 +68,7 @@ Goal size is among the strongest structural predictors of campaign outcomes.  Th
 
 ### Monthly Trends
 
-From the monthly data, a broad seasonal pattern is visible in which success rates steadily rise from January through June, remain elevated through September, then gradually decline toward year-end. Despite this pattern, August and May both experience anomalous drops in success rates. The dip in August likely reflects reduced backer attention during the late summer, but the May dip is less readily explained and may reflect sample noise. Particularly, campaigns launched in June, July, September, or November tend to outperform the annual average, 57.3%, with August and December representing the weakest windows for success.
+From the monthly data, a broad seasonal pattern is visible in which success rates steadily rise from January through June, remain elevated through September, then gradually decline toward year-end. Despite this pattern, August and May both experience anomalous drops. The dip in August likely reflects reduced backer attention during the late summer, but the May dip is less readily explained and may reflect sample noise. Particularly, campaigns launched in June, July, September, or November tend to outperform the annual average, 57.3%, with August and December representing the weakest windows for success.
 
 ### Day of Week
 
