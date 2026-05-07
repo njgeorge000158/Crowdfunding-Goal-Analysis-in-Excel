@@ -147,12 +147,12 @@ This pattern is consistent with two related interpretations. First, creators who
 
 The dataset includes two binary promotion flags: `staff_pick` and `spotlight`. Examining their combined effect reveals a modest but meaningful pattern.
 
-| Promotion Status  | Campaigns | Success Rate | Failure Rate | Cancel Rate |
-|-------------------|:---------:|:------------:|:------------:|:------------:|
-| Neither           | 699       | 57.2%        | 35.5%        | 5.7%         |
-| Spotlight Only    | 252       | 54.4%        | 39.3%        | 5.2%         |
-| Staff Pick Only   | 33        | 54.5%        | 39.4%        | 6.1%         |
-| Both Endorsements | 16        | 62.5%        | 25.0%        | 12.5%        |
+| Promotion Status  | Campaigns | Success Rate | Failure Rate | Canceled Rate |
+|-------------------|:---------:|:------------:|:------------:|:-------------:|
+| Neither           | 699       | 57.2%        | 35.5%        | 5.7%          |
+| Spotlight Only    | 252       | 54.4%        | 39.3%        | 5.2%          |
+| Staff Pick Only   | 33        | 54.5%        | 39.4%        | 6.1%          |
+| Both Endorsements | 16        | 62.5%        | 25.0%        | 12.5%         |
 
 Campaigns carrying either endorsement alone show **no meaningful lift** over un-promoted campaigns (54.4–54.5% vs. 57.2%). Only campaigns with both endorsements simultaneously achieve a higher rate (62.5%), though the sample of 16 such campaigns is too small to draw firm conclusions. The most likely interpretation is that both endorsements are awarded to the same high-quality campaigns — so the observed lift reflects underlying campaign quality rather than a causal effect of promotion.
 
