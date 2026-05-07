@@ -87,13 +87,13 @@ The August anomaly has a plausible explanation that reduced backer attention dur
 
 Taken together, the data suggests that June, July, and September represent the strongest windows for a campaign launch, each posting success rates between 61.6% and 64.0% and comfortably above the 56.5% average.  In contrast, August and December are the months to avoid where timing is discretionary, posting the two lowest rates in the dataset at 48.8% and 51.9% respectively.
 
-## Year-on-Year Trends
+### Year-on-Year Trends
 
-Annual success rates ranged from 51.0% to 67.0% across the 2010–2019 period, with no monotonic upward or downward trajectory. Instead, rates oscillated considerably from year to year, peaking in 2017–2019 and troughing in 2015–2016. The two campaigns recorded for 2020 both failed, but this window is too narrow to interpret meaningfully.
+Annual success rates ranged from 51.0% to 67.0% across the 2010–2019 period, with no sustained upward or downward trajectory.  Instead, rates oscillated considerably from year to year — peaking across 2017–2019 and troughing in 2015–2016 — suggesting the platform neither matured into a more favorable environment for creators nor deteriorated into a less forgiving one.  The two campaigns recorded for 2020 both failed, but, with such a small sample, the observation carries no analytical weight.
 
-The absence of a sustained directional trend suggests that aggregate crowdfunding success rates were relatively stable across the decade, with year-to-year variation more likely driven by compositional shifts in campaign types and broader cyclical conditions than by any underlying platform maturation effect. In other words, the platform did not appear to become systematically easier or harder to succeed on over time, at least not within this sample.
+The most defensible interpretation is that aggregate crowdfunding success rates were relatively stable across the decade.  Year-to-year variation more likely reflects shifts in the composition of campaigns entering the market and cyclical fluctuations in backer behavior than any structural change in the platform itself.  Essentially, the data is more consistent with a stable long-run mean around which success rates oscillate than with any narrative of improvement or decline.
 
-That conclusion should be held tentatively. With only 1,000 campaigns spread across ten years, annual sub-samples average roughly 100 campaigns each, which is sufficient to observe broad patterns but too thin to detect gradual trends with confidence. A substantially larger dataset, ideally covering tens of thousands of campaigns per year, would be needed to distinguish genuine long-run structural change from the noise inherent in a sample of this size.
+That interpretation, however, is constrained by a structural feature of the data rather than any ambiguity in the findings themselves.  With 1,000 campaigns spread across ten years, annual sub-samples average roughly 100 observations each, which is sufficient to identify broad patterns but too thin to detect gradual trends with confidence.  Thus, distinguishing a true structural shift from sampling noise at this resolution is not reliably possible.  Multi-year trend analysis of the kind that could reliably distinguish such structural changes from cyclical variations would require annual observation counts an order of magnitude or more above those available in this dataset.
 
 ---
 
