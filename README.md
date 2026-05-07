@@ -35,28 +35,28 @@ Of the 1,000 campaigns in the sample, 565 (56.5%) were successful, 364 (36.4%) f
 
 ---
 
-One of the clearest patterns in the data is the divergence between campaign volume and success rate.  At the primary category level, Technology, Photography, and Publishing are the most successful categories, yet Theater, Film & Video, and Music are all near or below the average (56.0%) despite being the three most popular categories by volume and accounting for nearly 70% of all campaigns.  In the sub-categories, the highest-performing segments are Web / Technology (70.6%), Translations / Publishing (66.7%), Television / Film & Video (64.7%), and Wearables / Technology (62.2%). Naturally, the subcategories also follow the same trend with a few exceptions.  Thus, creators should not interpret a crowded category or subcategory as a signal of strong success prospects.
+One of the clearest patterns in the data is the divergence between campaign volume and success rate.  For categories, Technology, Photography, and Publishing are the most successful, yet Theater, Film & Video, and Music are all near or below the average (56.0%) despite being the three most popular categories by volume and accounting for nearly 70% of all campaigns.  For subcategories, the highest-performing segments are Web / Technology (70.6%), Translations / Publishing (66.7%), Television / Film & Video (64.7%), and Wearables / Technology (62.2%). Expectedly, the subcategories also follow the same trend with a few exceptions.  Thus, creators should not interpret a crowded category or subcategory as a signal of strong success prospects.
 
 ## **Funding Rates: All Campaigns vs. Successful Ones**
 
 Across all 1,000 campaigns, the median funding ratio - the median percent funded multiplied by 100 - is 1.22x (i.e., campaigns raise about 22% more than their median goal), which, due to a small number of exceptionally over-funded campaigns, is substantially lower than the mean funding ratio, 2.00x.  The significant divergence between mean and median endorses the median as the preferred method for measuring central tendency.
 
-The picture shifts considerably when the analysis is restricted to successful campaigns alone, increasing its median to 2.12x. Food (3.29x) and Photography (2.55x) lead among primary categories, followed by Games (2.39x) and Publishing (2.28x).  Technology, despite its high success rate, has the lowest median funding ratio among successful campaigns (2.00x), suggesting that technology campaigns tend to hit their targets more precisely rather than dramatically exceeding them. 
+The picture shifts considerably when the analysis is restricted to successful campaigns alone, increasing its median ratio to 2.12x. Food (3.29x) and Photography (2.55x) lead among primary categories, followed by Games (2.39x) and Publishing (2.28x).  Technology, despite its high success rate, has the lowest median ratio among successful campaigns (2.00x), suggesting that technology campaigns tend to hit their targets more precisely rather than dramatically exceeding them. 
 
-At the sub-category level, the over-funding effect is particularly pronounced in niche music genres.  Successful Metal campaigns reach a median of 4.4x their goal and successful Jazz campaigns reach 3.5x, indicating that highly engaged niche audiences can drive exceptional outcomes.
+At the sub-category level, the over-funding effect is particularly pronounced in niche music genres.  Successful Metal campaigns reach a median ratio of 4.4x and successful Jazz campaigns reach 3.5x, indicating that highly engaged niche audiences can drive exceptional outcomes.
 
 ## Goal Size and Success
 
 ---
 
-| Goal Range          | Campaigns | Success Rate |
-|---------------------|:---------:|:------------:|
-| Under $5,000        | 285       | 77.5%        |
-| $5,000 – $10,000    | 317       | 51.7%        |
-| $10,000 – $15,000   | 9         | n/a †        |
-| $15,000 – $35,000   | 38        | 92.1%        |
-| $35,000 – $100,000  | 159       | 61.0%        |
-| Over $100,000       | 192       | 22.9%        |
+| Goal Range          | Campaigns | Success Rate | Failure Rate | Canceled Rate |
+|---------------------|:---------:|:------------:|:-------------:|:------------:|
+| Under $5,000        | 285       | 77.5%        | 20.4%         | 1.1%         |
+| $5,000 – $10,000    | 317       | 51.7%        | 39.7%         | 7.9%         |
+| $10,000 – $15,000   | 9         | n/a †        | n/a †         | n/a †        |
+| $15,000 – $35,000   | 38        | 92.1%        | 7.9%          | 0.0%         |
+| $35,000 – $100,000  | 159       | 61.0%        | 32.7%         | 4.4%         |
+| Over $100,000       | 192       | 22.9%        | 62.5%         | 11.5%        |
 
 *† Only 2 campaigns in this range — insufficient for a reliable estimate.*
 
