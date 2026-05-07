@@ -58,7 +58,7 @@ At the sub-category level, the over-funding effect is particularly pronounced in
 | $35,000 – $100,000  | 159       | 61.0%        | 32.7%         | 4.4%         |
 | Over $100,000       | 192       | 22.9%        | 62.5%         | 11.5%        |
 
-*† Only 2 campaigns in this range — insufficient for a reliable estimate.*
+*† Only 9 campaigns in this range — insufficient for a reliable estimate.*
 
 ---
 
