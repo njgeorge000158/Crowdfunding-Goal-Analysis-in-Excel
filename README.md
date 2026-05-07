@@ -114,8 +114,9 @@ Backer counts are highly skewed in both successful and unsuccessful campaigns. T
 | Outcome    | Median Backers | Mean Backers | Std Dev |
 |------------|:--------------:|:------------:|:-------:|
 | Successful | 201            | 851          | 1,267   |
-| Failed     | 114            | 586          | 961     |
+| Failed     | 115            | 586          | 961     |
 | Canceled   | 139            | 435          | 574     |
+| Live       | 149            | 584          | 968     |
 
 The contrast between median and mean is dramatic for successful campaigns (201 vs. 851), indicating that a small number of viral campaigns with thousands of backers are pulling the average upward. Using means as representative figures — as the original analysis does in several places — materially overstates what a typical campaign experiences. **All central tendency figures in this report use medians.**
 
