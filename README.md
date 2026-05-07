@@ -99,11 +99,11 @@ That interpretation, however, is constrained by a structural feature of the data
 
 ## Geographic Patterns
 
-The sample is heavily US-centric: 763 of the 1,000 campaigns (76.3%) originate from the United States. The remaining campaigns span six countries: Great Britain (48), Italy (48), Canada (44), Australia (43), Denmark (31), and Switzerland (23).
+Geographically, the sample is less a global survey than a US-dominated snapshot.  At 763 campaigns (76.3%), the United States alone accounts for more than three in four observations.  The remaining 237 are spread thinly across six countries: Great Britain and Italy (48 each), Canada (44), Australia (43), Denmark (31), and Switzerland (23) — with the largest non-US contributor representing less than 5% of the total.
 
-Success rates vary modestly across geographies. Great Britain leads at **58.3%**, followed by the US (57.1%), Australia (55.8%), and Denmark (54.8%). Canada has the lowest rate at 50.0%. These differences are relatively small and must be interpreted carefully given the limited non-US sample sizes — no country outside the US contributes more than 48 campaigns.
+Success rates vary modestly across geographies, ranging from 50.0% (Canada) to 58.3% (Great Britain), with the US (57.1%), Australia (55.8%), and Denmark (54.8%) occupying the middle. An 8.3 percentage point spread across seven countries is not large, and with no non-US country contributing more than 48 campaigns, none of the cross-country differences can be distinguished from sampling noise with any confidence.
 
-*Note: Because goals and pledges are denominated in local currencies (CAD, GBP, EUR, AUD, DKK, CHF, USD) with no currency conversion applied, direct cross-country comparisons of funding amounts are not meaningful without normalization.*
+It should be noted that goals and pledged amounts are recorded in local currencies across seven denominations (CAD, GBP, EUR, AUD, DKK, CHF, and USD) without normalization to a common unit. Cross-country comparisons of funding amounts are therefore not meaningful as presented and should be interpreted accordingly.
 
 ---
 
