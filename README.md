@@ -68,7 +68,7 @@ Goal size is among the strongest structural predictors of campaign outcomes.  Th
 
 ### Monthly Trends
 
-Monthly success rates range from 48.2% (August) to 63.2% (June). A broad seasonal pattern is visible: rates rise from January (53.3%) through June (63.2%), remain elevated through September (61.6%), then fall toward year-end, reaching 50.0% in December.
+Monthly success rates range from 48.8% in August to 64.0% in June. A broad seasonal pattern is visible: rates rise from January (53.3%) through June (63.2%), remain elevated through September (61.6%), then fall toward year-end, reaching 50.0% in December.
 
 Two months stand out as anomalies. **August drops to 48.2%** — a 13.5-percentage-point decline from July — and **May dips to 53.5%** after April's 59.0%. The summer dip in August likely reflects reduced backer attention during holiday periods. The May dip is less readily explained and may reflect sample noise.
 
