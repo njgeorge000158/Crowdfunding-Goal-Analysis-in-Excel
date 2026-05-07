@@ -8,11 +8,11 @@
 
 ## **Background and Approach**
 
-Since the late 2000s, crowdfunding has grown into a widely adopted mechanism for launching products, validating ideas, and mobilizing public support. To better understand the factors driving campaign success, this report analyzes a sample of 1,000 crowdfunding campaigns drawn from a standardized dataset. The analysis uses spreadsheet-based tools and covers outcomes across categories, timing, goal ranges, geographic markets, and backer distributions. Where the data permits, results are presented using medians rather than means, given the heavily skewed nature of most distributions.  
+Since the late 2000s, crowdfunding has grown into a widely adopted mechanism for launching products, validating ideas, and mobilizing public support.  To better understand the factors driving campaign success, this report analyzes a sample of 1,000 crowdfunding campaigns drawn from a standardized dataset.  The analysis uses spreadsheet-based tools and covers outcomes across categories, timing, goal ranges, geographic markets, and backer distributions.  Where the data permits, results are presented using medians rather than means, given the heavily skewed nature of most distributions.  
 
 ## Overall Outcomes
 
-Of the 1,000 campaigns in the sample, 565 (56.5%) were successful, 364 (36.4%) failed, 57 (5.7%) were canceled, and 14 (1.4%) remained live. The overall success rate provides the baseline against which the report evaluates category, timing, and structural factors.
+Of the 1,000 campaigns in the sample, 565 (56.5%) were successful, 364 (36.4%) failed, 57 (5.7%) were canceled, and 14 (1.4%) remained live.  The overall success rate provides the baseline against which the report evaluates category, timing, and structural factors.
 
 
 ## **Category Performance: Popularity vs. Success**
@@ -35,15 +35,15 @@ Of the 1,000 campaigns in the sample, 565 (56.5%) were successful, 364 (36.4%) f
 
 ---
 
-One of the clearest patterns in the data is the divergence between campaign volume and success rate. At the primary category level, Technology, Photography, and Publishing are the most successful categories, yet Theater, Film & Video, and Music are all near or below the average (56.0%) despite being the three most popular categories by volume and accounting for nearly 70% of all campaigns. In the sub-categories, the highest-performing segments are Web / Technology (70.6%), Translations / Publishing (66.7%), Television / Film & Video (64.7%), and Wearables / Technology (62.2%). Naturally, the subcategories also follow the same trend with a few exceptions. Thus, creators should not interpret a crowded category or subcategory as a signal of strong success prospects.
+One of the clearest patterns in the data is the divergence between campaign volume and success rate.  At the primary category level, Technology, Photography, and Publishing are the most successful categories, yet Theater, Film & Video, and Music are all near or below the average (56.0%) despite being the three most popular categories by volume and accounting for nearly 70% of all campaigns.  In the sub-categories, the highest-performing segments are Web / Technology (70.6%), Translations / Publishing (66.7%), Television / Film & Video (64.7%), and Wearables / Technology (62.2%). Naturally, the subcategories also follow the same trend with a few exceptions.  Thus, creators should not interpret a crowded category or subcategory as a signal of strong success prospects.
 
 ## **Funding Rates: All Campaigns vs. Successful Ones**
 
-Across all 1,000 campaigns, the median funding ratio - the median percent funded multiplied by 100 - is 1.22x (i.e., campaigns raise about 22% more than their median goal), which, due to a small number of exceptionally over-funded campaigns, is substantially lower than the mean funding ratio, 2.00x. The significant divergence between mean and median endorses the median as the preferred method for measuring central tendency.
+Across all 1,000 campaigns, the median funding ratio - the median percent funded multiplied by 100 - is 1.22x (i.e., campaigns raise about 22% more than their median goal), which, due to a small number of exceptionally over-funded campaigns, is substantially lower than the mean funding ratio, 2.00x.  The significant divergence between mean and median endorses the median as the preferred method for measuring central tendency.
 
-The picture shifts considerably when the analysis is restricted to successful campaigns alone, increasing its median to 2.12x. Food (3.29x) and Photography (2.55x) lead among primary categories, followed by Games (2.39x) and Publishing (2.28x). Technology, despite its high success rate, has the lowest median funding ratio among successful campaigns (2.00x), suggesting that technology campaigns tend to hit their targets more precisely rather than dramatically exceeding them. 
+The picture shifts considerably when the analysis is restricted to successful campaigns alone, increasing its median to 2.12x. Food (3.29x) and Photography (2.55x) lead among primary categories, followed by Games (2.39x) and Publishing (2.28x).  Technology, despite its high success rate, has the lowest median funding ratio among successful campaigns (2.00x), suggesting that technology campaigns tend to hit their targets more precisely rather than dramatically exceeding them. 
 
-At the sub-category level, the over-funding effect is particularly pronounced in niche music genres. Successful Metal campaigns reach a median of 4.4x their goal and successful Jazz campaigns reach 3.5x, indicating that highly engaged niche audiences can drive exceptional outcomes.
+At the sub-category level, the over-funding effect is particularly pronounced in niche music genres.  Successful Metal campaigns reach a median of 4.4x their goal and successful Jazz campaigns reach 3.5x, indicating that highly engaged niche audiences can drive exceptional outcomes.
 
 ## Goal Size and Success
 
@@ -62,7 +62,7 @@ At the sub-category level, the over-funding effect is particularly pronounced in
 
 ---
 
-Goal size is among the strongest structural predictors of campaign outcomes. The data reveals a non-linear relationship in which success rates are high at both low and moderate goal levels but drop sharply at high goals. Campaigns with goals above $100,000 succeed at just 22.9%, well below the overall average (56.6%) and roughly one-third the rate of campaigns under $5,000. The high success rate in the $15,000–$35,000 band should be interpreted cautiously given the small sample (39 campaigns). Consistent with this pattern, the median goal for successful campaigns ($6,200) is markedly lower than for failed campaigns ($9,900) and dramatically lower than for canceled campaigns ($36,400). Ultimately, more disciplined, realistic goal-setting appears to be a characteristic of campaigns that succeed rather than simply a byproduct of it.
+Goal size is among the strongest structural predictors of campaign outcomes.  The data reveals a non-linear relationship in which success rates are high at both low and moderate goal levels but drop sharply at high goals.  Campaigns with goals above $100,000 succeed at just 22.9%, well below the overall average (56.6%) and roughly one-third the rate of campaigns under $5,000.  The high success rate in the $15,000–$35,000 band should be interpreted cautiously given the small sample (39 campaigns).  Consistent with this pattern, the median goal for successful campaigns ($6,200) is markedly lower than for failed campaigns ($9,900) and dramatically lower than for canceled campaigns ($36,400).  Ultimately, more disciplined, realistic goal-setting appears to be a characteristic of campaigns that succeed rather than simply a byproduct of it.
 
 ## **Timing and Monthly Trends**
 
