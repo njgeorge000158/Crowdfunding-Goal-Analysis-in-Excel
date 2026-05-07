@@ -64,13 +64,138 @@ At the sub-category level, the over-funding effect is particularly pronounced in
 
 Goal size is among the strongest structural predictors of campaign outcomes.  The data reveals a non-linear relationship in which success rates are high for both low and moderate goals but drop sharply for high goals.  Campaigns with goals above $100,000 succeed at just 22.9%, well below the overall average (56.6%) and roughly one-third the rate of campaigns under $5,000.  The high success rate in the $15,000–$35,000 band should be interpreted cautiously given the small sample (39 campaigns).  Moreover, the median goal for successful campaigns ($6,200) is markedly lower than for failed campaigns ($9,900) and dramatically lower than for canceled campaigns ($36,400).  Ultimately, more disciplined, realistic goal-setting appears to be a characteristic of campaigns that succeed rather than simply a byproduct of it.
 
+## Timing: Monthly and Day-of-Week Patterns
+
+### Monthly Trends
+
+Monthly success rates range from 48.2% (August) to 63.2% (June). A broad seasonal pattern is visible: rates rise from January (53.3%) through June (63.2%), remain elevated through September (61.6%), then fall toward year-end, reaching 50.0% in December.
+
+Two months stand out as anomalies. **August drops to 48.2%** — a 13.5-percentage-point decline from July — and **May dips to 53.5%** after April's 59.0%. The summer dip in August likely reflects reduced backer attention during holiday periods. The May dip is less readily explained and may reflect sample noise.
+
+> **Practical implication:** Campaigns launched between June and September, or in April, tend to outperform the annual average. August and December represent the weakest windows in this dataset.
+
+### Day of Week
+
+Monday launches achieve the highest success rate in the sample at **64.1%**, followed by Sunday (57.8%) and Saturday (56.5%). Friday is the weakest day at 50.7%, roughly 13 percentage points behind Monday. While these differences should not be overstated given sample sizes, the Monday advantage is consistent enough to be actionable.
+
+---
+
+## Year-on-Year Trends
+
+Annual success rates in the sample range from 50.0% to 66.3% across the 2010–2019 period. The pattern is not monotonically increasing or decreasing — rates oscillate across years, with peaks in 2017 (66.3%) and 2019 (62.6%), and troughs in 2016 (50.0%) and 2015 (51.4%). The two campaigns recorded for 2020 both failed, but this is too small a window to interpret.
+
+The absence of a clear secular trend — upward or downward — suggests that crowdfunding success rates over this decade were relatively stable in aggregate, with year-to-year variation driven more by compositional and cyclical factors than by platform maturation effects. *A larger dataset would be needed to draw firm conclusions about multi-year trends.*
+
+---
+
+## Geographic Patterns
+
+The sample is heavily US-centric: 763 of the 1,000 campaigns (76.3%) originate from the United States. The remaining campaigns span six countries: Great Britain (48), Italy (48), Canada (44), Australia (43), Denmark (31), and Switzerland (23).
+
+Success rates vary modestly across geographies. Great Britain leads at **58.3%**, followed by the US (57.1%), Australia (55.8%), and Denmark (54.8%). Canada has the lowest rate at 50.0%. These differences are relatively small and must be interpreted carefully given the limited non-US sample sizes — no country outside the US contributes more than 48 campaigns.
+
+*Note: Because goals and pledges are denominated in local currencies (CAD, GBP, EUR, AUD, DKK, CHF, USD) with no currency conversion applied, direct cross-country comparisons of funding amounts are not meaningful without normalization.*
+
+---
+
+## Backer Distributions and Statistical Approach
+
+Backer counts are highly skewed in both successful and unsuccessful campaigns. The mean and median diverge substantially across all outcome groups, confirming that averages are not a reliable measure of central tendency for this dataset.
+
+| Outcome    | Median Backers | Mean Backers | Std Dev |
+|------------|:--------------:|:------------:|:-------:|
+| Successful | 201            | 851          | 1,267   |
+| Failed     | 114            | 586          | 961     |
+| Canceled   | 139            | 435          | 574     |
+
+The contrast between median and mean is dramatic for successful campaigns (201 vs. 851), indicating that a small number of viral campaigns with thousands of backers are pulling the average upward. Using means as representative figures — as the original analysis does in several places — materially overstates what a typical campaign experiences. **All central tendency figures in this report use medians.**
+
+Successful campaigns also exhibit considerably greater variance (std dev 1,267) than failed ones (961) or canceled ones (574). This asymmetry makes intuitive sense: failed campaigns tend to attract few or no backers, clustering the distribution near zero, while successful campaigns draw support across a broad spectrum — from modest community backing to large-scale viral mobilization.
+
+---
+
+## Standard Deviation: Goals vs. Pledges by Outcome
+
+An informative structural anomaly appears in the standard deviations of goals and pledged amounts across outcome groups.
+
+| Outcome    | Std Dev of Goal | Std Dev of Pledged |
+|------------|:---------------:|:------------------:|
+| Successful | $40,734         | $64,552            |
+| Failed     | $69,884         | $45,775            |
+| Canceled   | $70,557         | $35,632            |
+| Live       | $76,831         | $52,170            |
+
+For every outcome group except successful campaigns, **the standard deviation of goals exceeds the standard deviation of pledged amounts**. For successful campaigns, the relationship reverses: pledged amounts are more variable than the goals set. Furthermore, the standard deviation of goals is notably lower for successful campaigns ($40,734) than for failed ($69,884), canceled ($70,557), or live ($76,831) campaigns.
+
+This pattern is consistent with two related interpretations. First, creators who succeed tend to set more disciplined, realistic goals, resulting in a tighter goal distribution. Second, once a campaign succeeds — having cleared its goal — the final pledged amount depends on how much additional support continues to flow in, producing a wide range of over-funding outcomes. *Campaigns that fail or get canceled, by contrast, tend to set aspirationally large goals while achieving highly variable (and often very low) pledged amounts.*
+
+---
+
+## Platform Promotion: Staff Pick and Spotlight
+
+The dataset includes two binary promotion flags: `staff_pick` and `spotlight`. Examining their combined effect reveals a modest but meaningful pattern.
+
+| Promotion Status  | Campaigns | Success Rate |
+|-------------------|:---------:|:------------:|
+| Neither           | 699       | 57.2%        |
+| Spotlight Only    | 252       | 54.4%        |
+| Staff Pick Only   | 33        | 54.5%        |
+| Both Endorsements | 16        | 62.5%        |
+
+Campaigns carrying either endorsement alone show **no meaningful lift** over un-promoted campaigns (54.4–54.5% vs. 57.2%). Only campaigns with both endorsements simultaneously achieve a higher rate (62.5%), though the sample of 16 such campaigns is too small to draw firm conclusions. The most likely interpretation is that both endorsements are awarded to the same high-quality campaigns — so the observed lift reflects underlying campaign quality rather than a causal effect of promotion.
+
+---
+
+## Campaign Duration
+
+Median campaign duration is virtually identical across all outcome groups (12 days for both successful and failed campaigns), and the correlation between duration and percent funded is near zero (r ≈ −0.04). Longer campaigns do not outperform shorter ones. Creators should not treat an extended campaign window as a substitute for strong fundamentals.
+
+---
+
+## Conclusions
+
+This analysis yields five principal conclusions:
+
+1. **Popularity does not predict success.** Theater, Music, and Film & Video dominate by campaign volume but succeed at or below the overall average. Technology and Photography achieve materially higher success rates with a fraction of the campaign count.
+
+2. **Goal size is a strong structural predictor.** Campaigns with goals above $100,000 succeed at just 22.9% — less than one-third the rate of campaigns under $5,000. Successful campaigns set goals that are systematically lower and less variable than those that fail.
+
+3. **Timing matters.** June through September represents the strongest seasonal window. Monday outperforms Friday by roughly 13 percentage points as a launch day. August and December are the weakest months in this dataset.
+
+4. **Backer volume drives outcomes more than donation size.** The correlation between backer count and total pledged is r = 0.87. Average donation size has minimal predictive value. Campaigns that win do so by mobilizing large numbers of backers, not by securing unusually large individual contributions.
+
+5. **Successful campaigns are structurally different, not just luckier.** They set more disciplined goals, attract more backers, and generate highly variable over-funding outcomes — a profile that is consistent with deliberate planning rather than chance.
+
+---
+
+## Limitations and Recommendations
+
+Two structural weaknesses limit the generalizability of these findings:
+
+- **Sample size.** With 1,000 campaigns, several analyses rest on thin sub-samples — particularly at higher goal tiers, in smaller countries, and in less common sub-categories. A dataset one to two orders of magnitude larger would support substantially more robust conclusions.
+
+- **Currency heterogeneity.** Goals and pledged amounts are denominated in seven currencies without normalization. Cross-country funding comparisons are therefore unreliable as presented.
+
+- **Causal inference.** All findings are associational. The analysis cannot determine, for example, whether Monday launches cause higher success rates or whether the types of campaigns launched on Mondays differ systematically from those launched on Fridays.
+
+Future analyses should address these constraints by expanding the dataset, applying currency conversion, and using median-based measures of central tendency throughout. With those adjustments, the analytical framework developed here could yield more reliable and actionable guidance for campaign creators.
+
+
+
+
+
+
+
+
+-----------
+----------
+-----------
+
 ## **Timing and Monthly Trends**
 
 A raw view of the Months by Outcomes worksheet offered little immediate insight, as absolute counts are difficult to interpret without normalization. Converting these figures into monthly success rates — in a dedicated Months by Outcomes (%) worksheet — revealed a clearer pattern. Success rates range from 49% to 64% across the calendar year, rising steadily from January through June, plateauing through September, then declining into year-end. Two notable exceptions disrupt this trend: success rates drop sharply in May and August, falling 5% and 13% from their respective prior months. These anomalies notwithstanding, the broader seasonal pattern suggests that campaign timing is a meaningful lever — one that creators can strategically exploit to improve their odds of success.
 
-## **Goal Ranges and Sample Size Constraints**
 
-The Campaign Summary worksheet examines success rates across ranges of campaign goals. The line chart shows success rates increasing as goals rise from $0 to $15,000, leveling off between $15,000 and $34,999, and declining from $35,000 onward. However, this pattern must be interpreted with caution. The three lowest goal ranges account for the vast majority of campaigns — two categories contain hundreds of projects each, and one contains roughly fifty — while every category at or above $10,000 comprises fewer than 15 campaigns. These thin sample sizes at higher goal thresholds render the observed trends statistically unreliable. This data sparsity problem is not isolated to the Campaign Summary; it recurs elsewhere in the dataset and meaningfully constrains the conclusions that can be drawn.
 
 ## **Statistical Distributions and the Case for the Median**
 
