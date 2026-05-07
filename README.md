@@ -72,7 +72,7 @@ From the monthly data, a broad seasonal pattern is visible in which success rate
 
 ### Day of Week
 
-Monday launches achieve the highest success rate in the sample at **64.1%**, followed by Sunday (57.8%) and Saturday (56.5%). Friday is the weakest day at 50.7%, roughly 13 percentage points behind Monday. While these differences should not be overstated given sample sizes, the Monday advantage is consistent enough to be actionable.
+Monday launches achieve the highest success rate in the sample by a significant margin, followed by Sunday and Saturday, with Friday as the weakest day roughly 16 percentage points behind the leader. While these differences should not be overstated given sample sizes, the Monday advantage is consistent enough to be actionable.
 
 ---
 
