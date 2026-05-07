@@ -20,17 +20,17 @@ Of the 1,000 campaigns in the sample, 565 succeeded (56.5%), 364 failed (36.4%),
 
 ---
 
-| Primary Category | Campaigns | Success Rate |
-|------------------|:---------:|:------------:|
-| Technology       | 96        | 66.7%        |
-| Photography      | 42        | 61.9%        |
-| Publishing       | 67        | 59.7%        |
-| Film & Video     | 178       | 57.3%        |
-| Music            | 175       | 56.6%        |
-| Theater          | 344       | 54.4%        |
-| Food             | 46        | 47.8%        |
-| Games            | 48        | 43.8%        |
-| Journalism       | 4         | 100% †       |
+| Primary Category | Campaigns | Success Rate | Failure Rate | Canceled Rate |
+|------------------|:---------:|:------------:|:------------:|:-------------:|
+| Technology       | 96        | 66.7%        | 29.2%        | 2.1%          |
+| Photography      | 42        | 61.9%        | 26.2%        | 9.5%          |
+| Publishing       | 67        | 59.7%        | 35.8%        | 3.0%          |
+| Film & Video     | 178       | 57.3%        | 33.7%        | 6.2%          |
+| Music            | 175       | 56.6%        | 37.7%        | 5.7%          |
+| Theater          | 344       | 54.4%        | 38.4%        | 6.7%          |
+| Food             | 46        | 47.8%        | 43.5%        | 8.7%          |
+| Games            | 48        | 43.8%        | 47.9%        | 2.1%          |
+| Journalism       | 4         | 100% †       | 0% †         | 0% †          | 
 
 *† Journalism contains only 4 campaigns — too small a sample to draw reliable conclusions.*
 
