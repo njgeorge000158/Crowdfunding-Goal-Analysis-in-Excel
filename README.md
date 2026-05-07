@@ -73,7 +73,7 @@ The goal-outcome relationship is reinforced by the median figures.  Successful c
 
 ## Timing: Monthly and Day-of-Week Patterns
 
-### Day of Week
+### Day-of-Week Trends
 
 Among the days of the week, Monday launches achieve the highest success rate at 65.8%, a noticeable 14.8 percentage points above Friday, which posts the lowest rate at 51.0%.  Sunday (58.6%) and Saturday (58.3%) occupy the middle ground near the overall average.  However, the pattern is not uniform across the remaining weekdays, which cluster between 54.9% and 56.4% and show little meaningful separation from one another.
 
