@@ -109,7 +109,7 @@ It should be noted that goals and pledged amounts are recorded in local currenci
 
 ## Backer Distributions and Statistical Approach
 
-Backer counts are highly skewed in both successful and unsuccessful campaigns. The mean and median diverge substantially across all outcome groups, confirming that averages are not a reliable measure of central tendency for this dataset.
+---
 
 | Outcome    | Median Backers | Mean Backers | Std Dev |
 |------------|:--------------:|:------------:|:-------:|
@@ -118,9 +118,11 @@ Backer counts are highly skewed in both successful and unsuccessful campaigns. T
 | Canceled   | 139            | 435          | 574     |
 | Live       | 149            | 584          | 968     |
 
-The contrast between median and mean is dramatic for successful campaigns (201 vs. 851), indicating that a small number of viral campaigns with thousands of backers are pulling the average upward. Using means as representative figures — as the original analysis does in several places — materially overstates what a typical campaign experiences. **All central tendency figures in this report use medians.**
+---
 
-Successful campaigns also exhibit considerably greater variance (std dev 1,267) than failed ones (961) or canceled ones (574). This asymmetry makes intuitive sense: failed campaigns tend to attract few or no backers, clustering the distribution near zero, while successful campaigns draw support across a broad spectrum — from modest community backing to large-scale viral mobilization.
+Backer count distributions exhibit substantial positive skew across all outcome groups, producing relevant divergence between mean and median in every case.  This disparity is sharpest for successful campaigns, where the median backer count of 201 contrasts with a mean of 851, a difference attributable to a small number of high-visibility campaigns with significantly high backer counts.  The result is a pattern that disqualifies the average as a reliable summary statistic.
+
+There is also a notable asymmetry in how dispersed the outcome groups are.  Failed and canceled campaigns cluster near zero, where most attract few or no backers; successful campaigns span the full range from modest community support to large-scale viral mobilization, reflecting that success comes in many more sizes than failure does.
 
 ---
 
