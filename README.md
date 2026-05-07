@@ -8,12 +8,13 @@
 
 ## **Background and Approach**
 
-Since the late 2000s, crowdfunding has grown into a widely adopted mechanism for launching products, validating ideas, and mobilizing public support.  To better understand the factors driving campaign success, this report analyzes a sample of 1,000 crowdfunding campaigns drawn from a standardized dataset.  The analysis uses spreadsheet-based tools and covers outcomes across categories, timing, goal ranges, geographic markets, and backer distributions.  Where the data permits, results are presented using medians rather than means, given the heavily skewed nature of most distributions.  
+Crowdfunding has grown into a widely adopted mechanism for launching products, validating ideas, and mobilizing public support since the late 2000s.  Despite its prominence, the factors that distinguish successful campaigns from unsuccessful ones remain poorly understood at a granular level.  This report addresses that gap by analyzing a sample of 1,000 campaigns drawn from a standardized dataset, examining outcomes across categories, timing, goal ranges, geographic markets, and backer distributions.
+
+Where distributions are heavily skewed results are reported using medians rather than means.  This choice is not merely conventional because, in datasets where a small number of outliers can pull the average far from the typical value, the median is a more honest and informative summary of what a representative campaign actually experiences.
 
 ## Overall Outcomes
 
-Of the 1,000 campaigns in the sample, 565 (56.5%) were successful, 364 (36.4%) failed, 57 (5.7%) were canceled, and 14 (1.4%) remained live.  The overall success rate provides the baseline against which the report evaluates category, timing, and structural factors.
-
+Of the 1,000 campaigns in the sample, 565 succeeded (56.5%), 364 failed (36.4%), 57 were canceled (5.7%), and 14 remained live at the time of analysis (1.4%).  Taken together, the failure and cancellation rates were a combined 42.1% and serve as a reminder that crowdfunding is far from a reliable funding mechanism for the average creator.  The overall success rate provides the baseline against which the report evaluates category, timing, and structural factors. rewrite and improve
 
 ## **Category Performance: Popularity vs. Success**
 
@@ -35,15 +36,19 @@ Of the 1,000 campaigns in the sample, 565 (56.5%) were successful, 364 (36.4%) f
 
 ---
 
-One of the clearest patterns in the data is the divergence between campaign volume and success rate.  For categories, Technology, Photography, and Publishing are the most successful, yet Theater, Film & Video, and Music are all near or below the average (56.0%) despite being the three most popular categories by volume and accounting for nearly 70% of all campaigns.  For subcategories, the highest-performing segments are Web / Technology (70.6%), Translations / Publishing (66.7%), Television / Film & Video (64.7%), and Wearables / Technology (62.2%). Expectedly, the subcategories also follow the same trend with a few exceptions.  Thus, creators should not interpret a crowded category or subcategory as a signal of strong success prospects.
+One of the clearest patterns in the data is the divergence between campaign volume and success rate.  Specifically, the categories that attract the most campaigns are not the ones most likely to succeed. Technology (66.7%), Photography (61.9%), and Publishing (59.7%) lead at the primary category level, yet none ranks among the three most popular categories by volume.  Theater, Film & Video, and Music collectively account for nearly 70% of all campaigns in the sample while succeeding at rates of 54.4%, 57.3%, and 56.6%, respectively, at or below the 56.5% overall average.
+
+The pattern holds at the subcategory level with a few exceptions.  The highest-performing subcategories — Web / Technology (70.6%), Translations / Publishing (66.7%), Television / Film & Video (64.7%), and Wearables / Technology (62.2%) — are all drawn from the same higher-performing primary categories, reinforcing the view that category selection is meaningful.  Yet, there are exceptions that are worth noting.  For instance, television sits within Film & Video, a mid-performing primary category, yet outperforms its peers substantially, suggesting that subcategory dynamics can diverge from the primary category trend.
+
+From these observations, the practical implication is that a crowded category is not a proxy for a favorable one.  Creators who select a category based on its volume of activity may be entering precisely the fields where competition is highest and success rates are weakest.
 
 ## **Funding Rates: All Campaigns vs. Successful Ones**
 
-Across all 1,000 campaigns, the median funding ratio - the median percent funded multiplied by 100 - is 1.22x (i.e., campaigns raise about 22% more than their median goal), which, due to a small number of exceptionally over-funded campaigns, is substantially lower than the mean funding ratio, 2.00x.  The significant divergence between mean and median endorses the median as the preferred method for measuring central tendency.
+Across all 1,000 campaigns, the median funding ratio - pledged contributions as a proportion of the stated goal - is 1.22x, meaning the typical campaign raises about 22% more than its goal.  The mean tells a very different story at 2.00x, inflated by a small number of exceptionally over-funded campaigns that pull the average well above what most creators actually experience.  This gap is wide enough to make the mean actively misleading as a summary statistic and establishes the median as the appropriate measure of central tendency in this analysis.
 
-The picture shifts considerably when the analysis is restricted to successful campaigns alone, increasing its median ratio to 2.12x. Food (3.29x) and Photography (2.55x) lead among primary categories, followed by Games (2.39x) and Publishing (2.28x).  Technology, despite its high success rate, has the lowest median ratio among successful campaigns (2.00x), suggesting that technology campaigns tend to hit their targets more precisely rather than dramatically exceeding them. 
+The picture shifts considerably when the analysis is restricted to successful campaigns alone, raising the median funding ratio to 2.12x, nearly double the stated goal on the typical campaign.  Food (3.29x) and Photography (2.55x) lead among primary categories, followed by Games (2.39x) and Publishing (2.28x).  Technology is the notable outlier at the bottom: despite posting the highest success rate of any primary category, it has the lowest median funding ratio among successful campaigns (2.00x).  This combination — high likelihood of success, modest over-funding — suggests that technology campaigns tend to be more precisely scoped, hitting their targets without generating the surplus that characterizes other categories such as Food or Photography.
 
-At the sub-category level, the over-funding effect is particularly pronounced in niche music genres.  Successful Metal campaigns reach a median ratio of 4.4x and successful Jazz campaigns reach 3.5x, indicating that highly engaged niche audiences can drive exceptional outcomes.
+The over-funding effect is most pronounced at the sub-category level in niche music genres.  Successful Metal campaigns reach a median of 4.4x their stated goal; successful Jazz campaigns reach 3.5x.  These figures are among the highest in the dataset and point to a dynamic that recurs across niche categories: when a tightly defined audience is genuinely engaged, it tends to drive exceptional outcomes relative to the campaign goal.
 
 ## Goal Size and Success
 
@@ -62,25 +67,33 @@ At the sub-category level, the over-funding effect is particularly pronounced in
 
 ---
 
-Goal size is among the strongest structural predictors of campaign outcomes.  The data reveals a non-linear relationship in which success rates are high for both low and moderate goals but drop sharply for high goals.  Campaigns with goals above $100,000 succeed at just 22.9%, well below the overall average (56.6%) and roughly one-third the rate of campaigns under $5,000.  The high success rate in the $15,000–$35,000 band should be interpreted cautiously given the small sample (38 campaigns).  Moreover, the median goal for successful campaigns ($6,200) is markedly lower than for failed campaigns ($9,900) and dramatically lower than for canceled campaigns ($36,400).  Ultimately, more disciplined, realistic goal-setting appears to be a characteristic of campaigns that succeed rather than simply a byproduct of it.
+Goal size is among the strongest structural predictors of a campaign's outcome.  The data reveals a non-linear relationship in which success rates are high at low goal levels, compress in the mid-range, and collapse at the high end.  Campaigns with goals above $100,000 succeed at just 22.9%, well below the 56.6% overall average and roughly one-third the rate of campaigns under $5,000 (77.5%).  The $15,000–$35,000 band is an exception, posting a 92.1% success rate, but should be interpreted cautiously given its comparatively small sample of only 38 campaigns.
+
+The goal-outcome relationship is reinforced by the median figures.  Successful campaigns set a median goal of $6,200 markedly lower than the $9,900 median for failed campaigns and dramatically lower than the $36,400 median for canceled ones.  The gradient across all three outcome groups is steep and consistent enough to suggest that disciplined, realistic goal-setting is not merely a byproduct of success but a contributing factor to it.  In other words, creators who calibrate their goals to what their audience can plausibly support are systematically more likely to reach them.
 
 ## Timing: Monthly and Day-of-Week Patterns
 
-### Monthly Trends
-
-From the monthly data, a broad seasonal pattern is visible in which success rates steadily rise from January through June, remain elevated through September, then gradually decline toward year-end. Despite this pattern, August and May both experience anomalous drops. The dip in August likely reflects reduced backer attention during the late summer, but the May dip is less readily explained and may reflect sample noise. Particularly, campaigns launched in June, July, September, or November tend to outperform the annual average, 57.3%, with August and December representing the weakest windows for success.
-
 ### Day of Week
 
-Monday launches achieve the highest success rate in the sample by a significant margin, followed by Sunday and Saturday, with Friday at the bottom. While these differences should not be overstated given sample sizes, the Monday advantage is consistent enough to be actionable.
+Among the days of the week, Monday launches achieve the highest success rate at 65.8%, a noticeable 14.8 percentage points above Friday, which posts the lowest rate at 51.0%.  Sunday (58.6%) and Saturday (58.3%) occupy the middle ground near the overall average.  However, the pattern is not uniform across the remaining weekdays, which cluster between 54.9% and 56.4% and show little meaningful separation from one another.
 
----
+These differences should not be overstated.  With 74–100 successful campaigns per weekday in the sample, the confidence intervals around each estimate are wide enough that some of the observed variation reflects sampling noise rather than genuine day-of-week effects, and this caveat applies most strongly to the mid-week days where differences are small.  Nevertheless, the Monday-Friday gap of 14.8 percentage points is large enough and consistent enough in direction to be actionable. Creators with flexibility over their launch date have a reasonable basis for preferring the start of the working week.
+
+### Monthly Trends
+
+Monthly success rates follow a broad seasonal arc in which those rates rise steadily from January (53.8%) through June (64.0%), remain elevated through September (61.6%), then decline toward year-end, reaching 51.9% in December.  There are two months that disrupt this pattern.  August drops sharply to 48.8% — a 13.6 percentage point decline from July — making it the weakest month despite falling within what should be the elevated mid-year window.  May dips to 54.8% after April's 59.7%, a smaller but still notable interruption to the otherwise steady spring rise.  
+
+The August anomaly has a plausible explanation that reduced backer attention during the late summer likely suppresses engagement regardless of campaign quality.  The May dip is harder to account for and may simply reflect noise in a sample of this size: with an average of 82 campaigns per month, a single unusual cohort can shift a monthly rate by several percentage points. 
+
+Taken together, the data suggests that June, July, and September represent the strongest windows for a campaign launch, each posting success rates between 61.6% and 64.0% and comfortably above the 56.5% average.  In contrast, August and December are the months to avoid where timing is discretionary, posting the two lowest rates in the dataset at 48.8% and 51.9% respectively.
 
 ## Year-on-Year Trends
 
-Annual success rates in the sample range from 50.0% to 66.3% across the 2010–2019 period. The pattern is not monotonically increasing or decreasing — rates oscillate across years, with peaks in 2017 (66.3%) and 2019 (62.6%), and troughs in 2016 (50.0%) and 2015 (51.4%). The two campaigns recorded for 2020 both failed, but this is too small a window to interpret.
+Annual success rates ranged from 51.0% to 67.0% across the 2010–2019 period, with no monotonic upward or downward trajectory. Instead, rates oscillated considerably from year to year, peaking in 2017–2019 and troughing in 2015–2016. The two campaigns recorded for 2020 both failed, but this window is too narrow to interpret meaningfully.
 
-The absence of a clear secular trend — upward or downward — suggests that crowdfunding success rates over this decade were relatively stable in aggregate, with year-to-year variation driven more by compositional and cyclical factors than by platform maturation effects. *A larger dataset would be needed to draw firm conclusions about multi-year trends.*
+The absence of a sustained directional trend suggests that aggregate crowdfunding success rates were relatively stable across the decade, with year-to-year variation more likely driven by compositional shifts in campaign types and broader cyclical conditions than by any underlying platform maturation effect. In other words, the platform did not appear to become systematically easier or harder to succeed on over time, at least not within this sample.
+
+That conclusion should be held tentatively. With only 1,000 campaigns spread across ten years, annual sub-samples average roughly 100 campaigns each, which is sufficient to observe broad patterns but too thin to detect gradual trends with confidence. A substantially larger dataset, ideally covering tens of thousands of campaigns per year, would be needed to distinguish genuine long-run structural change from the noise inherent in a sample of this size.
 
 ---
 
