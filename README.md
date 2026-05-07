@@ -89,7 +89,7 @@ Taken together, the data suggests that June, July, and September represent the s
 
 ### Year-on-Year Trends
 
-Annual success rates ranged from 51.0% to 67.0% across the 2010–2019 period, with no sustained upward or downward trajectory.  Instead, rates oscillated considerably from year to year — peaking across 2017–2019 and troughing in 2015–2016 — suggesting the platform neither matured into a more favorable environment for creators nor deteriorated into a less forgiving one.  The two campaigns recorded for 2020 both failed, but, with such a small sample, the observation carries no analytical weight.
+Annual success rates ranged from 51.0% to 67.0% across the 2010–2019 period, with no sustained upward or downward trajectory.  Instead, rates oscillated considerably from year to year — peaking across 2017–2019 and troughing in 2015–2016 — suggesting the platform neither matured into a more favorable environment for creators nor deteriorated into a less forgiving one.  The two campaigns recorded for 2020 both failed, but, with such a small sample, the observation carries little analytical weight.
 
 The most defensible interpretation is that aggregate crowdfunding success rates were relatively stable across the decade.  Year-to-year variation more likely reflects shifts in the composition of campaigns entering the market and cyclical fluctuations in backer behavior than any structural change in the platform itself.  Essentially, the data is more consistent with a stable long-run mean around which success rates oscillate than with any narrative of improvement or decline.
 
