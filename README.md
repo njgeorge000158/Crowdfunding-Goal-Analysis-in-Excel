@@ -158,7 +158,7 @@ The two distributional patterns stand in direct contrast.  Failed and canceled c
 
 ---
 
-The dataset includes two binary promotion flags — staff_pick and spotlight — whose combined effect produces one of the more counterintuitive findings in the analysis. Campaigns carrying either endorsement alone are noticeably lower than unpromoted campaigns: success rates of 54.4% for spotlight-only and 54.5% for staff-pick-only campaigns actually fall below the 57.2% rate for neither endorsement. Apparently, being singled out by the platform appears to confer no advantage whatsoever.
+The dataset includes two binary promotion flags — staff_pick and spotlight — whose combined effect produces one of the more counterintuitive findings in the analysis. Campaigns carrying either endorsement alone have about the same success rate that is noticeably lower than unpromoted campaigns: success rates of 54.4% for spotlight-only and 54.5% for staff-pick-only campaigns compared to a 57.2% rate for neither endorsement. Apparently, being singled out by the platform appears to confer no advantage whatsoever.
 
 The picture shifts only when both endorsements are held simultaneously. Campaigns with both flags post a 62.5% success rate, 5.3 percentage points above the un-promoted baseline and the highest of any promotion group. The failure rate for this group is also notably lower at 25.0%, against 35.5% for un-promoted campaigns. That combination is suggestive, but the group contains only 16 campaigns, making it impossible to distinguish a genuine promotion effect from the idiosyncrasies of a small and potentially unrepresentative cohort.
 
