@@ -147,7 +147,7 @@ The two distributional patterns stand in direct contrast.  Failed and canceled c
 
 ## Platform Promotion: Staff Pick and Spotlight
 
-The dataset includes two binary promotion flags: `staff_pick` and `spotlight`. Examining their combined effect reveals a modest but meaningful pattern.
+---
 
 | Promotion Status  | Campaigns | Success Rate | Failure Rate | Canceled Rate |
 |-------------------|:---------:|:------------:|:------------:|:-------------:|
@@ -156,7 +156,13 @@ The dataset includes two binary promotion flags: `staff_pick` and `spotlight`. E
 | Staff Pick Only   | 33        | 54.5%        | 39.4%        | 6.1%          |
 | Both Endorsements | 16        | 62.5%        | 25.0%        | 12.5%         |
 
-Campaigns carrying either endorsement alone show **no meaningful lift** over un-promoted campaigns (54.4–54.5% vs. 57.2%). Only campaigns with both endorsements simultaneously achieve a higher rate (62.5%), though the sample of 16 such campaigns is too small to draw firm conclusions. The most likely interpretation is that both endorsements are awarded to the same high-quality campaigns — so the observed lift reflects underlying campaign quality rather than a causal effect of promotion.
+---
+
+The dataset includes two binary promotion flags — staff_pick and spotlight — whose combined effect produces one of the more counterintuitive findings in the analysis. Campaigns carrying either endorsement alone show no meaningful lift over un-promoted campaigns: success rates of 54.4% for spotlight-only and 54.5% for staff-pick-only campaigns actually fall below the 57.2% rate for campaigns with neither endorsement. On the surface, being singled out by the platform appears to confer no advantage whatsoever.
+
+The picture shifts only when both endorsements are held simultaneously. Campaigns with both flags post a 62.5% success rate — 5.3 percentage points above the un-promoted baseline and the highest of any promotion group. The failure rate for this group is also notably lower at 25.0%, against 35.5% for un-promoted campaigns. That combination is suggestive, but the group contains only 16 campaigns, making it impossible to distinguish a genuine promotion effect from the idiosyncrasies of a small and potentially unrepresentative cohort.
+
+The more plausible interpretation is that both endorsements are not causing success but tracking it. Platforms are more likely to award staff pick and spotlight status to campaigns that are already performing well — high backer momentum, strong early pledging, compelling presentation — which means the observed lift is more likely a reflection of underlying campaign quality than evidence that promotion itself changes outcomes. The endorsements, in this reading, are a signal of quality rather than a source of it.
 
 ---
 
