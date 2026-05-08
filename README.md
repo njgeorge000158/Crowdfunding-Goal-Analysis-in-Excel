@@ -105,7 +105,7 @@ Goals and pledged amounts are denominated in local currencies across seven denom
 
 ---
 
-## Backer Distributions and Statistical Approach
+## Backer Distributions
 
 ---
 
@@ -118,9 +118,9 @@ Goals and pledged amounts are denominated in local currencies across seven denom
 
 ---
 
-Backer count distributions exhibit substantial positive skew across all outcome groups, producing meaningful divergence between mean and median in every case. The disparity is sharpest for successful campaigns, where a median of 201 backers sits against a mean of 851 — a fourfold gap driven by a small number of high-visibility campaigns whose backer counts are an order of magnitude above the typical observation. A mean that is four times the median does not describe a minor statistical inconvenience; it describes a summary statistic that misrepresents the experience of the overwhelming majority of campaigns in the dataset. Therefore, the median is the only defensible measure of central tendency in this analysis.
+The backer count distributions exhibit positive skew of sufficient magnitude to produce material divergence between mean and median across all outcome groups.  The disparity is most pronounced for successful campaigns, where the median of 201 backers contrasts with a mean of 851 — a fourfold difference attributable to a small number of high-visibility campaigns whose backer counts are an order of magnitude above the typical observation.  A mean that is over four times the median cannot be treated as a reliable indicator of central tendency and reflects the distributional influence of outliers rather than the experience of the representative campaign: reporting such a figure as a summary statistic systematically overstates backer mobilization.  Consequently, the median is the only defensible measure of central tendency for this analysis.
 
-The outcome distributions reveal a second, related pattern. Failed and canceled campaigns are tightly clustered at low backer counts, most attract negligible support, and range of charateristics is narrow. In contrast, successful campaigns span the full range from modest community support to large-scale viral mobilization. Standard deviations of 1,267 for successful campaigns against 961 for failed and 574 for canceled capture this asymmetry, but the underlying point is more intuitive: success comes in far more sizes than failure does. In this dataset, failure is relatively uniform; success is not.
+Also, the backer count distributions exhibit a secondary pattern of analytical interest beyond the mean-median divergence.  Failed and canceled campaigns typically generate low backer counts, with most observations clustering near zero and a constrained range of outcomes, a distributional shape consistent with campaigns that fail to mobilize sufficient audience support.  In contrast, successful campaigns exhibit a markedly different distributional profile, spanning the full range from modest community support to large-scale viral mobilization.  This asymmetry is reflected in the standard deviations: 1,267 for successful campaigns, 961 for failed, and 574 for canceled.  The substantive implication is that failure is a relatively homogeneous outcome while success is heterogeneous: a distinction that has practical consequences for how campaign performance benchmarks should be set and interpreted.
 
 ---
 
