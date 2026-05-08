@@ -128,7 +128,7 @@ The outcome distributions reveal a second, related pattern. Failed and canceled 
 
 ## Standard Deviation: Goals vs. Pledges by Outcome
 
-An informative structural anomaly appears in the standard deviations of goals and pledged amounts across outcome groups.
+---
 
 | Outcome    | Std Dev of Goal | Std Dev of Pledged |
 |------------|:---------------:|:------------------:|
@@ -136,6 +136,8 @@ An informative structural anomaly appears in the standard deviations of goals an
 | Failed     | $69,884         | $45,775            |
 | Canceled   | $70,557         | $35,632            |
 | Live       | $76,831         | $52,170            |
+
+---
 
 A structural anomaly in the standard deviations of goals and pledged amounts across outcomes uncovers one of the more important patterns in the dataset.  For every outcome except successful campaigns, the standard deviation of goals exceeds that of pledged amounts, sometimes, substantially.  For failed campaigns, the figures are $69,884 versus $45,775; for canceled campaigns, $70,557 versus $35,632; for live campaigns, $76,831 versus $52,170.  In these cases, creators are setting goals across a wider range than the pledged amounts they ultimately receive: an example of aspirational goal-setting detached from what audiences are willing to support.
 
