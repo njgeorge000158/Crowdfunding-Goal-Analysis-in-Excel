@@ -8,7 +8,7 @@
 
 ## **Background**
 
-Crowdfunding has grown into a widely adopted mechanism for launching products, validating ideas, and mobilizing public support since the late 2000s. Despite its prominence, the factors that distinguish successful campaigns from unsuccessful ones remain poorly understood at a granular level. This report addresses this outstanding matter by analyzing a sample of 1,000 campaigns drawn from a standardized dataset, examining outcomes across categories, timing, goal ranges, geographic markets, and backer distributions.
+Crowdfunding has grown into a widely adopted mechanism for launching products, validating ideas, and mobilizing public support since the late 2000s. Despite its prominence, the factors that distinguish successful campaigns from unsuccessful ones remain poorly understood at a granular level. This report addresses that outstanding matter by analyzing a sample of 1,000 campaigns drawn from a standardized dataset, examining outcomes across categories, timing, goal ranges, geographic markets, and backer distributions.
 
 ## Overall Outcomes
 
