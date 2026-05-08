@@ -162,7 +162,7 @@ Campaigns carrying either endorsement alone show **no meaningful lift** over un-
 
 ## Campaign Duration
 
-Median campaign duration is virtually identical across all outcome groups (12 days for both successful and failed campaigns), and the correlation between duration and percent funded is near zero (r ≈ −0.04). Longer campaigns do not outperform shorter ones. Creators should not treat an extended campaign window as a substitute for strong fundamentals.
+Campaign duration exhibits no statistically meaningful association with outcome. Median duration is 12 days across both successful and failed campaigns, and the correlation between duration and percent funded is negligible at r ≈ −0.04. These figures are inconsistent with the hypothesis that extended campaign windows improve funding prospects and suggest that duration is not an option available to creators seeking to improve their odds of success.
 
 ---
 
