@@ -130,10 +130,10 @@ Also, the backer count distributions exhibit a secondary pattern of analytical i
 
 | Outcome    | Std Dev of Goal | Std Dev of Pledged |
 |------------|:---------------:|:------------------:|
-| Successful | $40,734         | $64,552            |
-| Failed     | $69,884         | $45,775            |
-| Canceled   | $70,557         | $35,632            |
-| Live       | $76,831         | $52,170            |
+| Successful | 40,734          | 64,552             |
+| Failed     | 69,884          | 45,775             |
+| Canceled   | 70,557          | 35,632             |
+| Live       | 76,831          | 52,170             |
 
 ---
 
