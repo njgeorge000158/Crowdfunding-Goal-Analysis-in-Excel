@@ -54,20 +54,20 @@ The over-funding effect is most pronounced at the subcategory level within niche
 
 | Goal Range          | Campaigns | Success Rate | Failure Rate | Canceled Rate |
 |---------------------|:---------:|:------------:|:-------------:|:------------:|
-| Under $5,000        | 285       | 77.5%        | 20.4%         | 1.1%         |
-| $5,000 – $10,000    | 317       | 51.7%        | 39.7%         | 7.9%         |
-| $10,000 – $15,000   | 9         | n/a †        | n/a †         | n/a †        |
-| $15,000 – $35,000   | 38        | 92.1%        | 7.9%          | 0.0%         |
-| $35,000 – $100,000  | 159       | 61.0%        | 32.7%         | 4.4%         |
-| Over $100,000       | 192       | 22.9%        | 62.5%         | 11.5%        |
+| Under 5,000         | 285       | 77.5%        | 20.4%         | 1.1%         |
+| 5,000 – 10,000      | 317       | 51.7%        | 39.7%         | 7.9%         |
+| 10,000 – 15,000     | 9         | n/a †        | n/a †         | n/a †        |
+| 15,000 – 35,000     | 38        | 92.1%        | 7.9%          | 0.0%         |
+| 35,000 – 100,000    | 159       | 61.0%        | 32.7%         | 4.4%         |
+| Over 100,000        | 192       | 22.9%        | 62.5%         | 11.5%        |
 
 *† Only 9 campaigns in this range — insufficient for a reliable estimate.*
 
 ---
 
-Goal size ranks among the strongest structural predictors of campaign outcome in this dataset.  The relationship between goal level and success rate is non-linear in which rates are elevated at low goal levels, compress through the mid-range, and collapse at the high end.  Campaigns with goals above $100,000 succeed at 22.9%, substantially below the 56.5% overall average and roughly one-third the rate for campaigns under $5,000 (77.5%).  The $15,000–$35,000 band is an exception, posting a 92.1% success rate, but should be interpreted cautiously given its comparatively small sample of only 38 campaigns.
+Goal size ranks among the strongest structural predictors of campaign outcome in this dataset.  The relationship between goal level and success rate is non-linear in which rates are elevated at low goal levels, compress through the mid-range, and collapse at the high end.  Campaigns with goals above 100,000 succeed at 22.9%, substantially below the 56.5% overall average and roughly one-third the rate for campaigns under 5,000 (77.5%).  The 15,000–35,000 band is an exception, posting a 92.1% success rate, but should be interpreted cautiously given its comparatively small sample of only 38 campaigns.
 
-The median goal figures are consistent with and reinforce the success rate analysis.  Successful campaigns maintain a median goal of $6,200, compared to $9,900 for failed campaigns and $36,400 for canceled ones — a monotonically increasing gradient across outcome groups that is difficult to attribute to sampling variation given its magnitude and consistency.  The pattern is most plausibly interpreted as evidence that goal discipline is a structural antecedent of success rather than a subsequent characteristic of campaigns that succeeded for other reasons.  Creators whose goals are calibrated to the realistic capacity of their target audience appear systematically more likely to reach them; conversely, those campaigns whose goals exceed that capacity appear systematically more likely to fall short or withdraw entirely.
+The median goal figures are consistent with and reinforce the success rate analysis.  Successful campaigns maintain a median goal of 6,200, compared to 9,900 for failed campaigns and 36,400 for canceled ones — a monotonically increasing gradient across outcome groups that is difficult to attribute to sampling variation given its magnitude and consistency.  The pattern is most plausibly interpreted as evidence that goal discipline is a structural antecedent of success rather than a subsequent characteristic of campaigns that succeeded for other reasons.  Creators whose goals are calibrated to the realistic capacity of their target audience appear systematically more likely to reach them; conversely, those campaigns whose goals exceed that capacity appear systematically more likely to fall short or withdraw entirely.
 
 ## Timing: Monthly and Day-of-Week Patterns
 
@@ -176,7 +176,7 @@ Campaign duration exhibits no statistically meaningful association with outcome.
 
 Popularity does not predict success. Theater, Music, and Film & Video collectively account for nearly 70% of all campaigns in the sample yet succeed at or below the overall average. Technology and Photography achieve materially higher success rates with a fraction of the campaign count. Therefore, crowded categories do not favor a successful outcome.
 
-Goal size is among the strongest structural predictors of outcome. Campaigns with goals above $100,000 succeed at just 22.9% — less than one-third the rate of campaigns under $5,000 (77.8%). The median goal for successful campaigns ($6,200) is less than half that of failed ones ($9,900) and less than one-sixth that of canceled ones ($36,400). The gradient is steep, consistent, and difficult to explain away as coincidence.
+Goal size is among the strongest structural predictors of outcome. Campaigns with goals above 100,000 succeed at just 22.9% — less than one-third the rate of campaigns under 5,000 (77.8%). The median goal for successful campaigns (6,200) is less than half that of failed ones (9,900) and less than one-sixth that of canceled ones (36,400). The gradient is steep, consistent, and difficult to explain away as coincidence.
 
 Timing is a meaningful but overlooked lever. June through September represents the strongest seasonal window, with success rates ranging from 61.6% to 63.2%. Monday outperforms Friday by 13.4 percentage points — the largest day-of-week gap in the dataset. August and December are the weakest windows, posting the two lowest monthly rates at 48.2% and 50.0% respectively. For creators with flexibility over their launch date, the data provide a reasonable basis for preference.
 
@@ -190,9 +190,9 @@ Successful campaigns are structurally different, not just luckier. They set lowe
 
 Three structural limitations constrain the generalizability of these findings and should be held in view when interpreting any specific result.
 
-**Sample size.** At 1,000 campaigns, the dataset is adequate for identifying broad patterns but insufficient for the finer-grained analyses the data invite. Several key sub-samples — campaigns with goals above $100,000, non-US countries, and less common sub-categories — contain fewer than 50 observations, placing them well below the threshold at which estimates become reliable. The problem is not uniform across the report: findings based on the full sample or large sub-groups carry reasonable evidential weight, while those resting on thin sub-samples should be treated as directional at best. A dataset one to two orders of magnitude larger would resolve most of these constraints and allow the analytical framework developed here to be applied with substantially greater confidence.
+**Sample size.** At 1,000 campaigns, the dataset is adequate for identifying broad patterns but insufficient for the finer-grained analyses the data invite. Several key sub-samples — campaigns with goals above 100,000, non-US countries, and less common sub-categories — contain fewer than 50 observations, placing them well below the threshold at which estimates become reliable. The problem is not uniform across the report: findings based on the full sample or large sub-groups carry reasonable evidential weight, while those resting on thin sub-samples should be treated as directional at best. A dataset one to two orders of magnitude larger would resolve most of these constraints and allow the analytical framework developed here to be applied with substantially greater confidence.
 
-**Currency heterogeneity.** Goals and pledged amounts are recorded in seven local currencies — CAD, GBP, EUR, AUD, DKK, CHF, and USD — with no exchange rate normalization applied. Any cross-country comparison of funding amounts in this report is therefore unreliable as presented: a £10,000 goal and a $10,000 goal are treated as equivalent in the raw data, which they are not. Until currency conversion is applied, geographic funding comparisons should be interpreted as indicative at most and set aside where precision is required.
+**Currency heterogeneity.** Goals and pledged amounts are recorded in seven local currencies — CAD, GBP, EUR, AUD, DKK, CHF, and USD — with no exchange rate normalization applied. Any cross-country comparison of funding amounts in this report is therefore unreliable as presented: a £10,000 goal and a 10,000 goal are treated as equivalent in the raw data, which they are not. Until currency conversion is applied, geographic funding comparisons should be interpreted as indicative at most and set aside where precision is required.
 
 **Causal inference.** Every finding in this report is associational. The analysis identifies patterns — Monday launches correlate with higher success rates, lower goals correlate with better outcomes, staff pick endorsements correlate with quality — but cannot determine whether these relationships are causal or whether they are produced by confounding factors that the data do not capture. Monday campaigns may succeed more often not because of the day itself but because of systematic differences in the types of campaigns launched on Mondays. Lower goals may predict success not because restraint causes audiences to respond but because both reflect an underlying characteristic — creator experience, market knowledge, audience size — that drives both goal-setting behavior and campaign outcomes simultaneously. These distinctions matter for anyone seeking to act on the findings rather than simply describe them.
 
