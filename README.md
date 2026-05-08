@@ -174,17 +174,15 @@ Campaign duration exhibits no statistically meaningful association with outcome.
 
 ## Conclusions
 
-This analysis yields five principal conclusions:
+Popularity does not predict success. Theater, Music, and Film & Video collectively account for nearly 70% of all campaigns in the sample yet succeed at or below the overall average. Technology and Photography achieve materially higher success rates with a fraction of the campaign count. Therefore, crowded categories do not favor a successful outcome.
 
-1. **Popularity does not predict success.** Theater, Music, and Film & Video dominate by campaign volume but succeed at or below the overall average. Technology and Photography achieve materially higher success rates with a fraction of the campaign count.
+Goal size is among the strongest structural predictors of outcome. Campaigns with goals above $100,000 succeed at just 22.9% — less than one-third the rate of campaigns under $5,000 (77.8%). The median goal for successful campaigns ($6,200) is less than half that of failed ones ($9,900) and less than one-sixth that of canceled ones ($36,400). The gradient is steep, consistent, and difficult to explain away as coincidence.
 
-2. **Goal size is a strong structural predictor.** Campaigns with goals above $100,000 succeed at just 22.9% — less than one-third the rate of campaigns under $5,000. Successful campaigns set goals that are systematically lower and less variable than those that fail.
+Timing is a meaningful but overlooked lever. June through September represents the strongest seasonal window, with success rates ranging from 61.6% to 63.2%. Monday outperforms Friday by 13.4 percentage points — the largest day-of-week gap in the dataset. August and December are the weakest windows, posting the two lowest monthly rates at 48.2% and 50.0% respectively. For creators with flexibility over their launch date, the data provide a reasonable basis for preference.
 
-3. **Timing matters.** June through September represents the strongest seasonal window. Monday outperforms Friday by roughly 13 percentage points as a launch day. August and December are the weakest months in this dataset.
+Backer volume is the primary engine of funding success. The correlation between backer count and total pledged is r = 0.87 — among the strongest relationships in the dataset. Average donation size, by contrast, has minimal predictive value. Campaigns that succeed do so by mobilizing large numbers of backers, not by securing unusually large individual contributions. The practical implication is that creator effort is better directed toward audience breadth than donor depth.
 
-4. **Backer volume drives outcomes more than donation size.** The correlation between backer count and total pledged is r = 0.87. Average donation size has minimal predictive value. Campaigns that win do so by mobilizing large numbers of backers, not by securing unusually large individual contributions.
-
-5. **Successful campaigns are structurally different, not just luckier.** They set more disciplined goals, attract more backers, and generate highly variable over-funding outcomes — a profile that is consistent with deliberate planning rather than chance.
+Successful campaigns are structurally different, not just luckier. They set lower and less variable goals, attract more backers, and generate highly variable over-funding outcomes — a combination that points to deliberate calibration rather than chance. The standard deviation figures, the median goal comparisons, and the backer distribution data all converge on the same profile: successful creators appear to know their audiences and scope their ambitions accordingly, and their audiences respond by exceeding what was asked.
 
 ---
 
