@@ -62,55 +62,45 @@ MS Excel
 
 |&rarr; [./images/](./images/)
 
-  &emsp; |&rarr; [./images/campaign_status_by_category.png](./images/campaign_status_by_category.png)
-  
-  &emsp; |&rarr; [./images/campaign_status_by_subcategory.png](./images/campaign_status_by_subcategory.png)
+  &emsp; |&rarr; [./images/backers_distribution.png](./images/backers_distribution.png)
   
   &emsp; |&rarr; [./images/campaign_summary.png](./images/campaign_summary.png)
   
   &emsp; |&rarr; [./images/category_goal_statistics.png](./images/category_goal_statistics.png)
-
+  
   &emsp; |&rarr; [./images/category_pledge_statistics.png](./images/category_pledge_statistics.png)
+
+  &emsp; |&rarr; [./images/correlation_analysis.png](./images/correlation_analysis.png)
   
-  &emsp; |&rarr; [./images/countries_outcomes.png](./images/countries_outcomes.png)
+  &emsp; |&rarr; [./images/countries_vs_outcomes.png](./images/countries_vs_outcomes.png)
   
-  &emsp; |&rarr; [./images/crowdfunding_data.png](./images/crowdfunding_data.png)
+  &emsp; |&rarr; [./images/duration_vs_outcomes.png](./images/duration_vs_outcomes.png)
   
-  &emsp; |&rarr; [./images/duration_outcomes.png](./images/duration_outcomes.png)
+  &emsp; |&rarr; [./images/mean_funding_ratio.png](./images/mean_funding_ratio.png)
   
-  &emsp; |&rarr; [./images/outcomes_months.png](./images/outcomes_months.png)
+  &emsp; |&rarr; [./images/outcomes_vs_categories.png](./images/outcomes_vs_categories.png)
 
-  &emsp; |&rarr; [./images/outcomes_percent_categories.png](./images/outcomes_percent_categories.png)
+  &emsp; |&rarr; [./images/outcomes_vs_months.png](./images/outcomes_vs_months.png)
 
-  &emsp; |&rarr; [./images/outcomes_percent_countries.png](./images/outcomes_percent_countries.png)
+  &emsp; |&rarr; [./images/outcomes_vs_weekdays.png](./images/outcomes_vs_weekdays.png)
 
-  &emsp; |&rarr; [./images/outcomes_percent_duration.png](./images/outcomes_percent_duration.png)
-
-  &emsp; |&rarr; [./images/outcomes_percent_months.png](./images/outcomes_percent_months.png)
-  
-  &emsp; |&rarr; [./images/outcomes_percent_weekdays.png](./images/outcomes_percent_weekdays.png)
-
-  &emsp; |&rarr; [./images/outcomes_percent_years.png](./images/outcomes_percent_years.png)
-  
-  &emsp; |&rarr; [./images/outcomes_weekdays.png](./images/outcomes_weekdays.png)
-
-  &emsp; |&rarr; [./images/outcomes_years.png](./images/outcomes_years.png)
-
-  &emsp; |&rarr; [./images/percent_funded_categories.png](./images/percent_funded_categories.png)
-
-  &emsp; |&rarr; [./images/percent_funded_successful_categories.png](./images/percent_funded_successful_categories.png)
+  &emsp; |&rarr; [./images/outcomes_vs_years.png](./images/outcomes_vs_years.png)
 
   &emsp; |&rarr; [./images/README.md](./images/README.md)
 
+  &emsp; |&rarr; [./images/staff_pick_spotlight_effect.png](./images/staff_pick_spotlight_effect.png)
+  
   &emsp; |&rarr; [./images/statistical_analysis_backers.png](./images/statistical_analysis_backers.png)
 
   &emsp; |&rarr; [./images/statistical_analysis_duration.png](./images/statistical_analysis_duration.png)
-
+  
   &emsp; |&rarr; [./images/statistical_analysis_goals.png](./images/statistical_analysis_goals.png)
 
   &emsp; |&rarr; [./images/statistical_analysis_pledges.png](./images/statistical_analysis_pledges.png)
 
-  &emsp; |&rarr; [./images/std_dev_goal_pledge_outcomes.png](./images/std_dev_goal_pledge_outcomes.png)  
+  &emsp; |&rarr; [./images/std_dev_goal_pledge_vs_outcomes.png](./images/std_dev_goal_pledge_vs_outcomes.png)
+
+  &emsp; |&rarr; [./images/success_driver_summary.png](./images/success_driver_summary.png)
   
 |&rarr; [./resources/](./resources/)
 
