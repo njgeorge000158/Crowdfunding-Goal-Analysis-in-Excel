@@ -6,54 +6,50 @@
 
 ----
 
-**1. Crowdfunding Data**
+**1. Crowdfunding**
 
-**2. Campaign Status by Category**
+**2. Outcomes vs. Categories**
 
-**3. Campaign Status by Sub-Category**
+**3. Mean Funding Ratio**
 
-**4. Outcomes (%) vs. Categories**
+**4. Outcomes vs. Weekdays**
 
-**5. % Funded vs. Categories**
+**5. Outcomes vs. Months**
 
 **6. Outcomes vs. Weekdays**
 
-**7. Outcomes (%) vs. Weekdays**
+**7. Outcomes vs. Years**
 
-**8. Outcomes vs. Months**
+**8. Backers Distributions**
 
-**9. Outcomes (%) vs. Months**
+**9. Campaign Summary**
 
-**10.  Outcomes vs. Years**
+**10. Statistical Analysis (Goals)**
 
-**11. Outcomes (%) vs. Years**
+**11. Statistical Analysis (Pledges)**
 
-**12. Campaign Summary**
+**12. Category-Goal Statistics**
 
-**13. Statistical Analysis (Goals)**
+**13. Category-Pledge Statistics**
 
-**14. Statistical Analysis (Pledges)**
+**14. StdDev Goal-Pledge vs. Outcomes**
 
-**15. Category-Goal Statistics**
+**15. Statistical Analysis (Backers)**
 
-**16. Category-Pledge Statistics**
+**16. Statistical Analysis (Duration)**
 
-**17. StdDev Goal-Pledge vs. Outcomes**
+**17. Duration vs. Outcomes**
 
-**18. Statistical Analysis (Backers)**
+**18. Countries vs. Outcomes**
 
-**19. Statistical Analysis (Duration)**
+**19. Correlation Analysis**
 
-**20. Duration vs. Outcomes**
+**20. Staff Pick & Spotlight Effect**
 
-**21. Outcomes (%) vs. Duration**
-
-**22. Countries vs. Outcomes**
-
-**23. Outcomes (%) vs. Countries**
+**21. Success Driver Summary**
 
 ----
 
 ## Copyright
 
-Nicholas J. George © 2023. All Rights Reserved.
+Nicholas J. George © 2026. All Rights Reserved.
