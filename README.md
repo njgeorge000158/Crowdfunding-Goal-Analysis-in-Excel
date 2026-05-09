@@ -52,6 +52,10 @@ The over-funding effect is most pronounced at the subcategory level within niche
 
 ---
 
+<img width="879" height="530" alt="Screenshot 2026-05-08 at 5 19 25 PM" src="https://github.com/user-attachments/assets/0765a9eb-a638-40bf-a0c0-d862643e83eb" />
+
+---
+
 | Goal Range          | Campaigns | Success Rate | Failure Rate | Canceled Rate |
 |---------------------|:---------:|:------------:|:-------------:|:------------:|
 | Under 5,000         | 285       | 77.5%        | 20.4%         | 1.1%         |
@@ -73,11 +77,23 @@ The median goal figures are consistent with and reinforce the success rate analy
 
 ### Day-of-Week Trends
 
+---
+
+<img width="620" height="401" alt="Screenshot 2026-05-08 at 5 16 02 PM" src="https://github.com/user-attachments/assets/35efa969-ff3a-4d3a-bc16-c8bb5900aa04" />
+
+---
+
 Day-of-week launch timing produces a discernible but irregular pattern.  Monday records the highest success rate at 65.8%, a margin of 14.8 percentage points above Friday, which records the lowest rate at 51.0%.  Sunday (58.6%) and Saturday (58.3%) occupy an intermediate position modestly above the overall average.  Tuesday, Wednesday, and Thursday exhibit minimal differentiation, clustering between 54.9% and 56.4% — a range too narrow to support reliable inference given the subsample sizes.  Thus, the distribution is better characterized as a three-tier structure - Monday, the weekend days, and the mid-week cluster, with Friday as a distinct lower outlier - rather than as a continuous gradient.
 
 These findings should be interpreted with appropriate caution.  With 74–100 campaigns per weekday, the confidence intervals surrounding each day-of-week estimate are wide enough to render differences among the midweek days statistically unreliable.  In contrast, the Monday-Friday differential of 14.8 percentage points supports the conclusion that its magnitude is relevant under reasonable assumptions about sampling variability, and its direction is consistent with the dataset's broader distribution.  Ultimately, creators with discretion over their launch timing should prefer Mondays, avoid Fridays, and have no preference for the intervening days.
 
 ### Monthly Trends
+
+---
+
+<img width="620" height="420" alt="Screenshot 2026-05-08 at 5 17 21 PM" src="https://github.com/user-attachments/assets/451d6740-2da3-424b-a9db-24fa05cb8808" />
+
+---
 
 Monthly success rates exhibit a broad seasonal trend punctuated by two anomalies.  Rates rise from 53.8% in January to 64.0% in June, remain elevated through September, and decline thereafter — a trajectory consistent with strong backer engagement through the mid-year period and reduced engagement toward year-end.  However, two months deviate materially from this pattern.  Despite its position within the prosperous mid-year window, August records a success rate of 48.8%, a decline of 13.6 percentage points from the preceding month and the lowest rate observed across the full calendar year.  Interrupting a spring increase that had progressed steadily from January through April, May records a drop of 4.9 percentage points to 54.8%, without a comparable reversal in the preceding or following months.
 
@@ -86,6 +102,12 @@ The August anomaly is consistent with the contraction in discretionary attention
 The monthly success rate data identifies a mid-year window of elevated performance and two periods of relative weakness.  June, July, and September each record success rates between 61.6% and 64.0%, uniformly above the 56.5% overall average by a margin of five to seven percentage points.  August and December record the two lowest monthly rates at 48.8% and 51.9% respectively, both below the overall average and separated from the strongest performing months by more than 15 percentage points.  Hence, these findings suggest that the mid-year window represents the most favorable environment, and the late summer and year-end periods represent the least favorable.
 
 ### Year-on-Year Trends
+
+---
+
+<img width="698" height="400" alt="Screenshot 2026-05-08 at 5 18 17 PM" src="https://github.com/user-attachments/assets/8207992a-a0f5-44d1-8e0f-1d55e264a374" />
+
+---
 
 Annual success rates across the 2010–2019 period ranged from 51.0% to 67.0% and reached their lowest levels during 2015–2016 and their highest during 2017–2019, exhibiting oscillatory rather than directional variation. The absence of a trend indicates that the platform's underlying success dynamics neither systematically improved as the platform matured nor deteriorated as competition intensified.  The two campaigns recorded for 2020 both failed, but, with such a small subsample, the observation carries little statistical weight and cannot be interpreted as indicative of any directional shift.
 
@@ -96,6 +118,12 @@ However, this interpretation is subject to a structural constraint inherent in t
 ---
 
 ## Geographic Patterns
+
+---
+
+<img width="697" height="419" alt="Screenshot 2026-05-08 at 5 20 27 PM" src="https://github.com/user-attachments/assets/375236d7-9520-4dda-9272-22450e500c8d" />
+
+---
 
 The geographic distribution of the sample is substantially skewed toward the United States, which contributes 763 campaigns out of 1,000 with no other country accounting for more than 48. The remaining 237 observations are distributed across six countries: Great Britain and Italy (48 campaigns each), Canada (44), Australia (43), Denmark (31), and Switzerland (23).  Consequently, findings based on the US subsample carry reasonable evidential weight while those based on any non-US countries rest on subsamples too small to support reliable inference without significant qualification.
 
@@ -125,6 +153,10 @@ Also, the backer count distributions exhibit a secondary pattern of analytical i
 ---
 
 ## Standard Deviation: Goals vs. Pledges by Outcome
+
+---
+
+<img width="682" height="420" alt="Screenshot 2026-05-08 at 5 22 24 PM" src="https://github.com/user-attachments/assets/e0d804ab-9a73-4a5e-a12d-83fa7ff2cc50" />
 
 ---
 
