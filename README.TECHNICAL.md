@@ -124,4 +124,4 @@ MS Excel
 
 ### Copyright
 
-Nicholas J. George © 2023. All Rights Reserved.
+Nicholas J. George © 2026. All Rights Reserved.
