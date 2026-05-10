@@ -12,7 +12,7 @@ Crowdfunding has emerged since the late 2000s as a widely adopted mechanism for 
 
 ## Overall Outcomes
 
-Of the 1,000 campaigns in the sample, 565 succeeded (56.5%), 364 failed (36.4%), 57 were canceled (5.7%), and 14 remained live (1.4%). The combined failure and cancellation rate of 42.1% serves as a reminder that crowdfunding is far from a reliable funding mechanism for the typical creator. The overall success rate provides the analytical baseline against which category-level, temporal, and structural variation is assessed throughout this report.
+Of the 1,000 campaigns in the sample, 565 succeeded (56.5%), 364 failed (36.4%), 57 were canceled (5.7%), and 14 were live (1.4%). The combined failure and cancellation rate of 42.1% serves as a reminder that crowdfunding is far from a reliable funding mechanism for the typical creator. The overall success rate provides the analytical baseline against which category-level, temporal, and structural variation is assessed throughout this report.
 
 ## **Category Performance: Popularity vs. Success**
 
