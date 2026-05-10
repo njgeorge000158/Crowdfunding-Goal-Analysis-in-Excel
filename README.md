@@ -77,13 +77,21 @@ The median goal figures reinforce the success rate analysis.  Successful campaig
 
 ---
 
-<img width="620" height="401" alt="Screenshot 2026-05-08 at 5 16 02 PM" src="https://github.com/user-attachments/assets/35efa969-ff3a-4d3a-bc16-c8bb5900aa04" />
+| Day of Week | Campaigns | Success Rate | Failure Rate | Canceled Rate |
+|-------------|:---------:|:------------:|:------------:|:-------------:|
+| Sunday      | 133       | 58.6%        | 35.3%        | 6.0%          |
+| Monday      | 152       | 65.8%        | 30.3%        | 3.9%          |
+| Tuesday     | 149       | 56.4%        | 38.9%        | 4.7%          |
+| Wednesday   | 136       | 55.9%        | 37.5%        | 6.6%          |
+| Thursday    | 142       | 54.9%        | 37.3%        | 7.7%          |
+| Friday      | 147       | 51.0%        | 43.5%        | 5.4%          |
+| Saturday    | 127       | 58.3%        | 35.4%        | 6.3%          |
 
 ---
 
-Day-of-week launch timing produces a discernible but irregular pattern.  Monday records the highest success rate at 65.8%, a margin of 14.8 percentage points above Friday, which records the lowest rate at 51.0%.  Sunday (58.6%) and Saturday (58.3%) occupy an intermediate position modestly above the overall average.  Tuesday, Wednesday, and Thursday exhibit minimal differentiation, clustering between 54.9% and 56.4% — a range too narrow to support reliable inference given the subsample sizes.  Thus, the distribution is better characterized as a three-tier structure - Monday, the weekend days, and the mid-week cluster, with Friday as a distinct lower outlier - rather than as a continuous gradient.
+Day-of-week launch timing produces a distinguishable but irregular pattern.  Monday records the highest success rate at 65.8%, a margin of 14.8 percentage points above Friday, which records the lowest rate at 51.0%.  Sunday (58.6%) and Saturday (58.3%) occupy an intermediate position modestly above the average (57.3).  Tuesday, Wednesday, and Thursday exhibit minimal differentiation, clustering between 54.9% and 56.4% — a range too narrow to support reliable inference.  Consequently, the distribution is better characterized as a three-tier structure - Monday, the weekend days, and the mid-week cluster, with Friday as a low outlier - rather than as a continuous gradient.
 
-These findings should be accepted with appropriate caution.  With 74–100 campaigns per weekday, the confidence intervals surrounding each day-of-week estimate are wide enough to render differences among the midweek days statistically unreliable.  In contrast, the Monday-Friday differential of 14.8 percentage points supports the conclusion that its magnitude is relevant under reasonable assumptions about sampling variability, and its direction is consistent with the dataset's broader distribution.  Ultimately, creators with discretion over their launch timing should prefer Mondays, avoid Fridays, and have no preference for the intervening days.
+These findings should be accepted with appropriate caution.  With 127–152 campaigns per weekday, the confidence interval around each day-of-week estimate is wide enough to render differences among the midweek days statistically questionable.  In contrast, the Monday-Friday differential of 14.8% supports the conclusion that its magnitude is relevant under reasonable sampling variability assumptions, and its direction is consistent with the dataset's broader distribution.  Ultimately, creators with discretion over their launch timing should prefer Mondays, avoid Fridays, and have no preference for the intervening days.
 
 ### Monthly Trends
 
