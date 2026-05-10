@@ -154,10 +154,6 @@ Also, the backer count distributions exhibit a secondary pattern of analytical i
 
 ---
 
-<img width="682" height="420" alt="Screenshot 2026-05-08 at 5 22 24 PM" src="https://github.com/user-attachments/assets/e0d804ab-9a73-4a5e-a12d-83fa7ff2cc50" />
-
----
-
 | Outcome    | Std Dev of Goal | Std Dev of Pledged |
 |------------|:---------------:|:------------------:|
 | Successful | 40,734          | 64,552             |
