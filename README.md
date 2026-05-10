@@ -54,10 +54,6 @@ The overfunding effect is most pronounced at the subcategory level within niche 
 
 ---
 
-<img width="879" height="530" alt="Screenshot 2026-05-08 at 5 19 25 PM" src="https://github.com/user-attachments/assets/0765a9eb-a638-40bf-a0c0-d862643e83eb" />
-
----
-
 | Goal Range          | Campaigns | Success Rate | Failure Rate | Canceled Rate |
 |---------------------|:---------:|:------------:|:-------------:|:------------:|
 | Under 5,000         | 285       | 77.5%        | 20.4%         | 1.1%         |
