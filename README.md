@@ -29,7 +29,7 @@ Of the 1,000 campaigns in the sample, 565 succeeded (56.5%), 364 failed (36.4%),
 | Food             | 46        | 47.8%        | 43.5%        | 8.7%          | 0.0%      |
 | Games            | 48        | 43.8%        | 47.9%        | 2.1%          | 6.2%      |
 | Journalism       | n/a †     | n/a †        | n/a †        | n/a †         | n/a †     | 
-| **Grand Total**  | 996       | 56.3%        | 36.5%        | 5.7%          | 1.4%      | 
+| **Grand Total**  | **996**   | **56.3%**    | **36.5%**    | **5.7%**      | **1.4%**  | 
 
 *† Journalism contains only 4 campaigns — too small a sample to draw reliable conclusions.*
 
@@ -102,10 +102,11 @@ The overfunding effect is most pronounced at the subcategory level within niche 
 |---------------------|:---------:|:------------:|:-------------:|:-------------:|:---------:|
 | Under 5,000         | 285       | 77.5%        | 20.4%         | 1.1%          | 1.0%      |
 | 5,000 – 10,000      | 317       | 51.7%        | 39.7%         | 7.9%          | 0.7%      |
-| 10,000 – 15,000     | 9         | n/a †        | n/a †         | n/a †         | n/a †     |
+| 10,000 – 15,000     | n/a †     | n/a †        | n/a †         | n/a †         | n/a †     |
 | 15,000 – 35,000     | 38        | 92.1%        | 7.9%          | 0.0%          | 0.0%      |
 | 35,000 – 100,000    | 159       | 61.0%        | 32.7%         | 4.4%          | 1.9%      |
 | Over 100,000        | 192       | 22.9%        | 62.5%         | 11.5%         | 3.1%      |
+| Grand Total         | 192       | 22.9%        | 62.5%         | 11.5%         | 3.1%      |
 
 *† Only 9 campaigns in this range — insufficient for a reliable estimate.*
 
