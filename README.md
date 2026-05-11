@@ -84,7 +84,7 @@ Collectively, these findings carry a direct and cautionary implication for campa
 | plays             | 2.02       | 0.48     | 0.51     | 0.31     | 1.13        |
 | **GRAND TOTAL**   | **2.12**   | **0.43** | **0.51** | **0.50** | **1.22**    |
 
-† Journalism contains only 4 campaigns — too small a sample to draw reliable conclusions.
+*† Journalism contains only 4 campaigns — too small a sample to draw reliable conclusions.*
 
 ---
 
@@ -108,7 +108,7 @@ The overfunding effect is most pronounced at the subcategory level within niche 
 | Over 100,000        | 192       | 22.9%        | 62.5%         | 11.5%         | 3.1%      |
 | **Grand Total**     | **991**   | **62.5%**    | **22.9%**     | **11.5%**     | **3.1%**  |
 
-*† Only 9 campaigns in this range — insufficient for a reliable estimate.*
+*† 10,000 – 15,000 contains only 9 campaigns —  too small a sample to draw reliable conclusions.*
 
 ---
 
@@ -169,7 +169,22 @@ The monthly success rate data identifies a mid-year window of relative strength 
 
 ---
 
-<img width="698" height="400" alt="Screenshot 2026-05-08 at 5 18 17 PM" src="https://github.com/user-attachments/assets/8207992a-a0f5-44d1-8e0f-1d55e264a374" />
+| Year            | Campaigns | Success Rate | Failure Rate | Canceled Rate |
+|-----------------|:---------:|:------------:|:------------:|:-------------:|
+| 2010            | 107       | 54.2%        | 32.7%        | 13.1%         |
+| 2011            | 102       | 54.9%        | 39.2%        | 5.9%          |
+| 2012            | 81        | 55.6%        | 39.5%        | 4.9%          |
+| 2013            | 87        | 55.2%        | 40.2%        | 4.6%          |
+| 2014            | 101       | 59.4%        | 36.6%        | 4.0%          |
+| 2015            | 103       | 52.4%        | 40.8%        | 6.8%          |
+| 2016            | 96        | 51.0%        | 43.8%        | 5.2%          |
+| 2017            | 100       | 67.0%        | 28.0%        | 5.0%          |
+| 2018            | 100       | 61.0%        | 35.0%        | 4.0%          |
+| 2019            | 107       | 62.6%        | 33.6%        | 3.7%          |
+| 2020            | n/a †     | n/a †        | n/a †        | n/a †         |
+| **Grand Total** | **984**   | **57.4%**    | **36.8%**    | **5.8%**      |
+
+*† 2020 contains only 2 campaigns —  too small a sample to draw reliable conclusions.*
 
 ---
 
