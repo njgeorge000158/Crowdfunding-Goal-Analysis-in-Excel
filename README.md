@@ -188,7 +188,7 @@ The monthly success rate data identifies a mid-year window of relative strength 
 
 ---
 
-Annual success rates across the 2010–2019 period ranged from 51.0% to 67.0% and reached their lowest levels during 2015–2016 and their highest during 2017–2019, exhibiting oscillatory rather than directional variation. The absence of a trend indicates that the platform's underlying success dynamics neither systematically improved as the platform matured nor deteriorated as competition intensified.  The two campaigns recorded for 2020 both failed, but, with such a small subsample, the observation carries little statistical weight and cannot be understood as indicative of any directional shift.
+Annual success rates across the 2010–2019 period ranged from 51.0% to 67.0% and reached their lowest levels during 2015–2016 and their highest during 2017–2019, exhibiting oscillatory rather than directional variation. The absence of a trend indicates that the platform's underlying success dynamics neither systematically improved from platform maturation nor deteriorated from intensified competition.  The two campaigns recorded for 2020 both failed, but, with such a small subsample, the observation carries little statistical weight.
 
 The most defensible inference is that aggregate success rates were relatively stable across the decade, and the year-to-year variation likely reflected factors external to the platform — shifting campaign composition, changing backer behavior, broader economic conditions.  Essentially, the data supports a stable long-run mean model in which annual variation represents transient deviation rather than directional change and is inconsistent with narratives of either secular improvement or secular decline.
 
