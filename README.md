@@ -28,7 +28,8 @@ Of the 1,000 campaigns in the sample, 565 succeeded (56.5%), 364 failed (36.4%),
 | Theater          | 344       | 54.4%        | 38.4%        | 6.7%          | 0.6%      |
 | Food             | 46        | 47.8%        | 43.5%        | 8.7%          | 0.0%      |
 | Games            | 48        | 43.8%        | 47.9%        | 2.1%          | 6.2%      |
-| Journalism       | 4         | n/a †        | n/a †        | n/a †         | n/a †     | 
+| Journalism       | n/a †     | n/a †        | n/a †        | n/a †         | n/a †     | 
+| **Grand Total**  | 996       | 56.3%        | 36.5%        | 5.7%          | 1.4%      | 
 
 *† Journalism contains only 4 campaigns — too small a sample to draw reliable conclusions.*
 
