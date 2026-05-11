@@ -296,7 +296,7 @@ The association between dual endorsement and elevated success rates is more alig
 
 ---
 
-Campaign duration is not statistically relevant with outcome in this dataset. The median duration is identical across successful and failed campaigns at 12 days, and the Spearman correlation between duration and percent funded is r ≈ −0.02 — a value incompatible with the idea that longer campaign windows improve funding prospects.
+Campaign duration is not statistically linked to outcome in this dataset. The median duration is identical across successful and failed campaigns at 12 days, and the Spearman correlation between duration and percent funded is r ≈ −0.02 — a value incompatible with the idea that longer campaign windows improve funding prospects.
 
 The duration brackets broadly reflect this null result although with two noteworthy features at the extremes. The 40–49 day bracket posts the highest success rate at 62.7%, but with only 51 campaigns it is too thinly populated to support confident inference. The 50–59 day bracket collapses to 36.4% — the lowest in the table and 20% below the overall average — while the failure rate rises to 54.5%. Thus, creators with the longest campaigns most likely are those who extended their windows in response to poor early traction, making the 50–59 day cohort a population skewed toward underperformance rather than the conclusion that long durations cause failure.
 
