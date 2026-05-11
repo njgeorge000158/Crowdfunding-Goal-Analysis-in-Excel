@@ -192,7 +192,7 @@ Annual success rates across the 2010–2019 period ranged from 51.0% to 67.0% an
 
 The most defensible inference is that aggregate success rates are relatively stable across the decade, and the year-to-year variation likely reflects factors external to the platform — shifting campaign composition, changing backer behavior, broader economic conditions.  Essentially, the data supports a stable long-run mean model in which annual variation represents transient deviation rather than directional change.
 
-Yet, this conclusion is subject to a structural constraint inherent in the dataset rather than any analytical ambiguity in the findings. With annual subsamples averaging 98 campaigns, the resolution of the year-on-year analysis is enough to identify broad shifts but insufficient to detect gradual trends.  Thus, a credible multi-year trend analysis would require, at minimum, annual observations an order of magnitude above those available here.
+Yet, this conclusion is subject to a inherent structural constraint rather than the previously-described analytical ambiguity. With annual subsamples averaging 98 campaigns, the resolution of the year-on-year analysis is enough to identify broad shifts but insufficient to detect gradual trends.  Thus, a credible multi-year trend analysis would require, at minimum, annual observations an order of magnitude above those available here.
 
 ---
 
