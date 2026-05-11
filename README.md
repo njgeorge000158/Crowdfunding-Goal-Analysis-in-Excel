@@ -282,6 +282,20 @@ The association between dual endorsement and elevated success rates is more cons
 
 ## Campaign Duration
 
+---
+
+| Duration (days) | Campaigns | Success Rate | Failure Rate | Canceled Rate |
+|-----------------|:---------:|:------------:|:------------:|:-------------:|
+| 0-9             | 437       | 57.2%        | 37.3%        | 5.5%          |
+| 10-19           | 245       | 58.4%        | 35.1%        | 6.5%          |
+| 20-29           | 155       | 54.8%        | 37.4%        | 7.7%          |
+| 30-39           | 76        | 61.8%        | 35.5%        | 2.6%          |
+| 40-49           | 51        | 62.7%        | 35.3%        | 2.0%          |
+| 50-59           | 22        | 36.4%        | 54.5%        | 9.1%          |
+| **Grand Total** | **986**   | **57.3%**    | **36.9%**    | **5.8%**      |
+
+---
+
 Campaign duration exhibits no statistically meaningful association with outcome in this dataset. Median duration is equivalent across successful and failed campaigns at 12 days, and the Spearman correlation between duration and percent funded is r ≈ −0.02, a value indistinguishable from zero and directionally inconsistent with the hypothesis that extended campaign windows improve funding prospects. The absence of any positive duration effect suggests that time on platform does not compensate for weak underlying demand, and that creators who extend campaign windows in response to poor early performance are unlikely to alter their trajectory. In short, duration is not a meaningful predictor of success in this dataset and should not be treated as a viable option for improving campaign outcomes.
 
 ---
