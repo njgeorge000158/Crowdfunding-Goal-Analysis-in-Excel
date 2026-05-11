@@ -77,6 +77,8 @@ MS Excel
   &emsp; |&rarr; [./images/duration_vs_outcomes.png](./images/duration_vs_outcomes.png)
   
   &emsp; |&rarr; [./images/mean_funding_ratio.png](./images/mean_funding_ratio.png)
+
+  &emsp; |&rarr; [./images/median_funding_ratio.png](./images/median_funding_ratio.png)
   
   &emsp; |&rarr; [./images/outcomes_vs_categories.png](./images/outcomes_vs_categories.png)
 
