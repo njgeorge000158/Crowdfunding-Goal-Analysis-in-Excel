@@ -18,17 +18,17 @@ Of the 1,000 campaigns in the sample, 565 succeeded (56.5%), 364 failed (36.4%),
 
 ---
 
-| Primary Category | Campaigns | Success Rate | Failure Rate | Canceled Rate |
-|------------------|:---------:|:------------:|:------------:|:-------------:|
-| Technology       | 96        | 66.7%        | 29.2%        | 2.1%          |
-| Photography      | 42        | 61.9%        | 26.2%        | 9.5%          |
-| Publishing       | 67        | 59.7%        | 35.8%        | 3.0%          |
-| Film & Video     | 178       | 57.3%        | 33.7%        | 6.2%          |
-| Music            | 175       | 56.6%        | 37.7%        | 5.7%          |
-| Theater          | 344       | 54.4%        | 38.4%        | 6.7%          |
-| Food             | 46        | 47.8%        | 43.5%        | 8.7%          |
-| Games            | 48        | 43.8%        | 47.9%        | 2.1%          |
-| Journalism       | 4         | n/a †        | n/a †        | n/a †         | 
+| Primary Category | Campaigns | Success Rate | Failure Rate | Canceled Rate | Live Rate |
+|------------------|:---------:|:------------:|:------------:|:-------------:|:---------:|
+| Technology       | 96        | 66.7%        | 29.2%        | 2.1%          | 2.0%      |
+| Photography      | 42        | 61.9%        | 26.2%        | 9.5%          | 2.4%      |
+| Publishing       | 67        | 59.7%        | 35.8%        | 3.0%          | 1.5%      |
+| Film & Video     | 178       | 57.3%        | 33.7%        | 6.2%          | 2.8%      |
+| Music            | 175       | 56.6%        | 37.7%        | 5.7%          | 0.0%      |
+| Theater          | 344       | 54.4%        | 38.4%        | 6.7%          | 0.6%      |
+| Food             | 46        | 47.8%        | 43.5%        | 8.7%          | 0.0%      |
+| Games            | 48        | 43.8%        | 47.9%        | 2.1%          | 6.2%      |
+| Journalism       | 4         | n/a †        | n/a †        | n/a †         | n/a †     | 
 
 *† Journalism contains only 4 campaigns — too small a sample to draw reliable conclusions.*
 
@@ -97,14 +97,14 @@ The overfunding effect is most pronounced at the subcategory level within niche 
 
 ---
 
-| Goal Range          | Campaigns | Success Rate | Failure Rate | Canceled Rate |
-|---------------------|:---------:|:------------:|:-------------:|:------------:|
-| Under 5,000         | 285       | 77.5%        | 20.4%         | 1.1%         |
-| 5,000 – 10,000      | 317       | 51.7%        | 39.7%         | 7.9%         |
-| 10,000 – 15,000     | 9         | n/a †        | n/a †         | n/a †        |
-| 15,000 – 35,000     | 38        | 92.1%        | 7.9%          | 0.0%         |
-| 35,000 – 100,000    | 159       | 61.0%        | 32.7%         | 4.4%         |
-| Over 100,000        | 192       | 22.9%        | 62.5%         | 11.5%        |
+| Goal Range          | Campaigns | Success Rate | Failure Rate  | Canceled Rate | Live Rate |
+|---------------------|:---------:|:------------:|:-------------:|:-------------:|:---------:|
+| Under 5,000         | 285       | 77.5%        | 20.4%         | 1.1%          | 1.0%      |
+| 5,000 – 10,000      | 317       | 51.7%        | 39.7%         | 7.9%          | 0.7%      |
+| 10,000 – 15,000     | 9         | n/a †        | n/a †         | n/a †         | n/a †     |
+| 15,000 – 35,000     | 38        | 92.1%        | 7.9%          | 0.0%          | 0.0%      |
+| 35,000 – 100,000    | 159       | 61.0%        | 32.7%         | 4.4%          | 1.9%      |
+| Over 100,000        | 192       | 22.9%        | 62.5%         | 11.5%         | 3.1%      |
 
 *† Only 9 campaigns in this range — insufficient for a reliable estimate.*
 
