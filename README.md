@@ -44,11 +44,52 @@ Collectively, these findings carry a direct and cautionary implication for campa
 
 ## **Funding Rates: All Campaigns vs. Successful Ones**
 
+---
+
+| Row Labels | canceled | failed | live | successful | Grand Total |
+|---|---|---|---|---|---|
+| **film & video** | **0.39** | **0.52** | **0.58** | **2.07** | **1.23** |
+| animation | 0.35 | 0.46 | 0.75 | 1.93 | 1.39 |
+| documentary | 0.67 | 0.54 | 0.21 | 2.03 | 1.26 |
+| drama | 0.11 | 0.57 | 0.56 | 1.82 | 1.40 |
+| science fiction | | 0.45 | | 1.99 | 0.58 |
+| shorts | 0.24 | 0.88 | 0.58 | 3.29 | 1.78 |
+| television | 0.39 | 0.59 | | 1.89 | 1.56 |
+| **food** | **0.60** | **0.59** | | **3.29** | **0.97** |
+| food trucks | 0.60 | 0.59 | | 3.29 | 0.97 |
+| **games** | **0.27** | **0.50** | **0.36** | **2.39** | **0.96** |
+| mobile games | | 0.44 | 0.36 | 1.81 | 0.55 |
+| video games | 0.27 | 0.50 | 0.59 | 3.10 | 0.97 |
+| **journalism** | | | | **1.50** | **1.50** |
+| audio | | | | 1.50 | 1.50 |
+| **music** | **0.38** | **0.45** | | **2.08** | **1.23** |
+| electric music | | 0.41 | | 2.09 | 1.46 |
+| indie rock | 0.11 | 0.57 | | 1.76 | 1.04 |
+| jazz | 0.19 | 0.19 | | 3.46 | 1.77 |
+| metal | | 0.37 | | 3.16 | 1.22 |
+| rock | 0.57 | 0.45 | | 2.13 | 1.25 |
+| world music | | | | 1.76 | 1.76 |
+| **photography** | **0.60** | **0.36** | **0.01** | **2.55** | **1.44** |
+| photography books | 0.60 | 0.36 | 0.01 | 2.55 | 1.44 |
+| **publishing** | **0.36** | **0.42** | **0.02** | **2.28** | **1.26** |
+| fiction | 0.39 | 0.64 | | 1.50 | 1.10 |
+| nonfiction | 0.33 | 0.41 | 0.02 | 2.32 | 1.46 |
+| radio & podcasts | | 0.33 | | 1.74 | 1.01 |
+| translations | | 0.41 | | 2.41 | 1.58 |
+| **technology** | **0.64** | **0.62** | **0.61** | **1.99** | **1.32** |
+| wearables | | 0.59 | 0.59 | 2.21 | 1.44 |
+| web | 0.64 | 0.63 | 0.62 | 1.88 | 1.28 |
+| **theater** | **0.48** | **0.51** | **0.31** | **2.02** | **1.13** |
+| plays | 0.48 | 0.51 | 0.31 | 2.02 | 1.13 |
+| **Grand Total** | **0.43** | **0.51** | **0.50** | **2.12** | **1.22** |
+
+---
+
 Across all 1,000 campaigns, the median funding ratio — pledged contributions as a proportion of the stated goal — is 1.22x, indicating that the typical campaign raises about 22% more than its target.  The arithmetic mean of 2.00x deviates from this figure, inflated by a small number of outlying campaigns whose funding ratios are large enough to distort the average well beyond what is representative of the broader distribution.  This degree of divergence between mean and median is not a minor statistical consideration and reflects a sufficiently skewed distribution that renders the mean unreliable as a measure of central tendency.
 
 Restricting the analysis to successful campaigns generates a materially higher median funding ratio of 2.12x, demonstrating that a successful campaign normally raises nearly double its goal.  Among primary categories, Food (3.29x) and Photography (2.55x) record the highest median ratios followed by Games (2.39x) and Publishing (2.28x). Technology is an anomaly with the lowest median funding ratio (1.99x) despite possessing the highest primary category success rate, insinuating that technology campaigns set goals with greater precision relative to audience capacity clearing targets efficiently rather than generating excessive surplus.
 
-The overfunding effect is most pronounced at the subcategory level within niche music genres.  Successful Metal campaigns post a median funding ratio of 4.4x; successful Jazz campaigns post 3.5x; and, both figures exceed the primary category maximum of 3.29x, substantially above the 2.12x median.  These results are consistent with tightly-defined, highly-engaged audience communities committing disproportionally large resources to these niche campaigns. Hence, for creators, modest, community-calibrated goals paired with strong audience engagement may generate higher funding ratios than broader campaigns targeting greater but less cohesive markets.
+The overfunding effect is most pronounced at the subcategory level within niche music genres.  Successful Jazz campaigns post a median funding ratio of 3.46x; successful Metal campaigns post 3.16x; and, both figures are substantially above the 2.12x median.  These results are consistent with tightly-defined, highly-engaged audience communities committing disproportionally large resources to these niche campaigns. Hence, for creators, modest, community-calibrated goals paired with strong audience engagement may generate higher funding ratios than broader campaigns targeting greater but less cohesive markets.
 
 ## Goal Size and Success
 
