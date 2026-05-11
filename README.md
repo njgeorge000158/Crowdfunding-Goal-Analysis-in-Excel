@@ -106,7 +106,7 @@ The overfunding effect is most pronounced at the subcategory level within niche 
 | 15,000 – 35,000     | 38        | 92.1%        | 7.9%          | 0.0%          | 0.0%      |
 | 35,000 – 100,000    | 159       | 61.0%        | 32.7%         | 4.4%          | 1.9%      |
 | Over 100,000        | 192       | 22.9%        | 62.5%         | 11.5%         | 3.1%      |
-| Grand Total         | 192       | 22.9%        | 62.5%         | 11.5%         | 3.1%      |
+| **Grand Total**     | **991**   | **62.5%**    | **22.9%**     | **11.5%**     | **3.1%**  |
 
 *† Only 9 campaigns in this range — insufficient for a reliable estimate.*
 
@@ -122,15 +122,16 @@ The median goal figures reinforce the success rate analysis.  Successful campaig
 
 ---
 
-| Day of Week | Campaigns | Success Rate | Failure Rate | Canceled Rate |
-|-------------|:---------:|:------------:|:------------:|:-------------:|
-| Sunday      | 133       | 58.6%        | 35.3%        | 6.0%          |
-| Monday      | 152       | 65.8%        | 30.3%        | 3.9%          |
-| Tuesday     | 149       | 56.4%        | 38.9%        | 4.7%          |
-| Wednesday   | 136       | 55.9%        | 37.5%        | 6.6%          |
-| Thursday    | 142       | 54.9%        | 37.3%        | 7.7%          |
-| Friday      | 147       | 51.0%        | 43.5%        | 5.4%          |
-| Saturday    | 127       | 58.3%        | 35.4%        | 6.3%          |
+| Day of Week     | Campaigns | Success Rate | Failure Rate | Canceled Rate |
+|-----------------|:---------:|:------------:|:------------:|:-------------:|
+| Sunday          | 133       | 58.6%        | 35.3%        | 6.0%          |
+| Monday          | 152       | 65.8%        | 30.3%        | 3.9%          |
+| Tuesday         | 149       | 56.4%        | 38.9%        | 4.7%          |
+| Wednesday       | 136       | 55.9%        | 37.5%        | 6.6%          |
+| Thursday        | 142       | 54.9%        | 37.3%        | 7.7%          |
+| Friday          | 147       | 51.0%        | 43.5%        | 5.4%          |
+| Saturday        | 127       | 58.3%        | 35.4%        | 6.3%          |
+| **Grand Total** | **986**   | **57.3%**    | **36.9%**    | **5.8%**      |
 
 ---
 
@@ -140,20 +141,21 @@ Day-of-week launch timing produces a distinguishable but irregular pattern best 
 
 ---
 
-| Month       | Campaigns | Success Rate | Failure Rate | Canceled Rate |
-|-------------|:---------:|:------------:|:------------:|:-------------:|
-| January     | 91        | 53.8%        | 39.6%        | 6.6%          |
-| February    | 79        | 55.7%        | 35.4%        | 8.9%          |
-| March       | 86        | 57.0%        | 38.4%        | 4.7%          |
-| April       | 77        | 59.7%        | 39.0%        | 1.3%          |
-| May         | 84        | 54.8%        | 41.7%        | 3.6%          |
-| June        | 86        | 64.0%        | 32.6%        | 3.5%          |
-| July        | 93        | 62.4%        | 33.3%        | 4.3%          |
-| August      | 84        | 48.8%        | 41.7%        | 9.5%          |
-| September   | 73        | 61.6%        | 31.5%        | 6.8%          |
-| October     | 77        | 58.4%        | 33.8%        | 7.8%          |
-| November    | 75        | 60.0%        | 36.0%        | 4.0%          |
-| December    | 81        | 51.9%        | 39.5%        | 8.6%          |
+| Month           | Campaigns | Success Rate | Failure Rate | Canceled Rate |
+|-----------------|:---------:|:------------:|:------------:|:-------------:|
+| January         | 91        | 53.8%        | 39.6%        | 6.6%          |
+| February        | 79        | 55.7%        | 35.4%        | 8.9%          |
+| March           | 86        | 57.0%        | 38.4%        | 4.7%          |
+| April           | 77        | 59.7%        | 39.0%        | 1.3%          |
+| May             | 84        | 54.8%        | 41.7%        | 3.6%          |
+| June            | 86        | 64.0%        | 32.6%        | 3.5%          |
+| July            | 93        | 62.4%        | 33.3%        | 4.3%          |
+| August          | 84        | 48.8%        | 41.7%        | 9.5%          |
+| September       | 73        | 61.6%        | 31.5%        | 6.8%          |
+| October         | 77        | 58.4%        | 33.8%        | 7.8%          |
+| November        | 75        | 60.0%        | 36.0%        | 4.0%          |
+| December        | 81        | 51.9%        | 39.5%        | 8.6%          |
+| **Grand Total** | **986**   | **57.3%**    | **36.9%**    | **5.8%**      |
 
 ---
 
