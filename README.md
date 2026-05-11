@@ -92,7 +92,7 @@ Across all 1,000 campaigns, the median funding ratio — pledged contributions a
 
 Restricting the analysis to successful campaigns generates a materially higher median funding ratio of 2.12x, demonstrating that a successful campaign normally raises nearly double its goal.  Among primary categories, Food (3.29x) and Photography (2.55x) record the highest median ratios followed by Games (2.39x) and Publishing (2.28x). Technology is an anomaly with the lowest median funding ratio (1.99x) despite possessing the highest primary category success rate, insinuating that technology campaigns set goals with greater precision relative to audience capacity clearing targets efficiently rather than generating excessive surplus.
 
-The overfunding effect is most pronounced at the subcategory level within niche music genres.  Successful Jazz campaigns post a median funding ratio of 3.46x; successful Metal campaigns post 3.16x; and both figures are substantially above the 2.12x median.  These results are consistent with tightly-defined, highly-engaged audience communities committing disproportionally large resources to these niche campaigns. Hence, for creators, modest, community-calibrated goals paired with strong audience engagement may generate higher funding ratios than broader campaigns targeting greater but less cohesive markets.
+The overfunding effect is most pronounced at the subcategory level within niche music genres.  Successful Jazz campaigns post a median funding ratio of 3.46x; successful Metal campaigns post 3.16x; and both figures are substantially above the 2.12x median.  These results are consistent with tightly defined, highly engaged audience communities committing disproportionally large resources to these niche campaigns. Hence, for creators, modest, community-calibrated goals paired with strong audience engagement may generate higher funding ratios than broader campaigns targeting greater but less cohesive markets.
 
 ## Goal Size and Success
 
@@ -192,7 +192,7 @@ Annual success rates across the 2010–2019 period ranged from 51.0% to 67.0% an
 
 The most defensible inference is that aggregate success rates are relatively stable across the decade, and the year-to-year variation likely reflects factors external to the platform — shifting campaign composition, changing backer behavior, broader economic conditions.  Essentially, the data supports a stable long-run mean model in which annual variation represents transient deviation rather than directional change.
 
-Yet, this conclusion is subject to a inherent structural constraint rather than the previously-described analytical ambiguity. With annual subsamples averaging 98 campaigns, the resolution of the year-on-year analysis is enough to identify broad shifts but insufficient to detect gradual trends.  Thus, a credible multi-year trend analysis would require, at minimum, observations an order of magnitude above those available here.
+Yet, this conclusion is subject to an inherent structural constraint rather than the previously described analytical ambiguity. With annual subsamples averaging 98 campaigns, the resolution of the year-on-year analysis is enough to identify broad shifts but insufficient to detect gradual trends.  Thus, a credible multi-year trend analysis would require, at minimum, observations an order of magnitude above those available here.
 
 ---
 
