@@ -28,7 +28,7 @@ Of the 1,000 campaigns in the sample, 565 succeeded (56.5%), 364 failed (36.4%),
 | Theater          | 344       | 54.4%        | 38.4%        | 6.7%          |
 | Food             | 46        | 47.8%        | 43.5%        | 8.7%          |
 | Games            | 48        | 43.8%        | 47.9%        | 2.1%          |
-| Journalism       | 4         | 100% †       | 0% †         | 0% †          | 
+| Journalism       | 4         | n/a †        | n/a †        | n/a †         | 
 
 *† Journalism contains only 4 campaigns — too small a sample to draw reliable conclusions.*
 
@@ -60,8 +60,8 @@ Collectively, these findings carry a direct and cautionary implication for campa
 | **GAMES**         | **2.39**   | **0.27** | **0.50** | **0.36** | **0.96**    |
 | mobile games      | 1.81       |          | 0.44     | 0.36     | 0.55        |
 | video games       | 3.10       | 0.27     | 0.50     | 0.59     | 0.97        |
-| **JOURNALISM**    | **1.50 †** |          |          |          | **1.50 †**  |
-| audio             | 1.50 †     |          |          |          | 1.50 †      |
+| **JOURNALISM**    | **n/a †**  |          |          |          | **n/a †**   |
+| audio             | n/a †      |          |          |          | n/a †       |
 | **MUSIC**         | **2.08**   | **0.38** | **0.45** |          | **1.23**    |
 | electric music    | 2.09       |          | 0.41     |          | 1.46        |
 | indie rock        | 1.76       | 0.11     | 0.57     |          | 1.04        |
