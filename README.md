@@ -200,7 +200,16 @@ Yet, this conclusion is subject to a inherent structural constraint rather than 
 
 ---
 
-<img width="697" height="419" alt="Screenshot 2026-05-08 at 5 20 27 PM" src="https://github.com/user-attachments/assets/375236d7-9520-4dda-9272-22450e500c8d" />
+| Country         | Campaigns | Success Rate | Failure Rate | Canceled Rate |
+|-----------------|:---------:|:------------:|:------------:|:-------------:|
+| Australia       | 42        | 57.1%        | 38.1%        | 4.8%          |
+| Canada          | 43        | 51.2%        | 44.2%        | 4.7%          |
+| Switzerland     | 22        | 54.5%        | 27.3%        | 18.2%         |
+| Denmark         | 30        | 56.7%        | 40.0%        | 3.3%          |
+| Great Britain   | 47        | 59.6%        | 38.3%        | 2.1%          |
+| Italy           | 48        | 54.2%        | 39.6%        | 6.3%          |
+| United States   | 754       | 57.8%        | 36.3%        | 5.8%          |
+| **Grand Total** | **986**   | **57.3%**    | **36.9%**    | **5.8%**      |
 
 ---
 
