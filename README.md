@@ -320,7 +320,7 @@ Campaign duration is not statistically linked to outcome in this dataset. The me
 
 The duration brackets broadly reflect this situation although with two noteworthy exceptions at the extreme. The 40–49 day bracket posts the highest success rate but has only 51 campaigns, too low to support statistical inference. Also, the 50–59 day bracket has the lowest success rate, 20% below the overall average, while its failure rate is the highest. Thus, creators with the longest campaigns most likely extended their windows in response to poor early traction skewing the reason for failure towards underperformance instead of long duration.
 
-Collectively, there is little support for treating campaign duration as an option for improving outcomes. The time on platform does not compensate for weak underlying demand, and creators with poor early performance who extend their campaign windows are unlikely to alter that trajectory. Thus, duration is not a legitimate predictor of success and should not be treated as a viable strategic variable.
+There is little support for treating campaign duration as an option for improving outcomes. The time on platform does not compensate for weak underlying demand, and creators with poor early performance who extend their campaign windows are unlikely to alter that trajectory. Ultimately, duration is not a legitimate predictor of success and should not be treated as a viable strategic variable.
 
 ---
 
