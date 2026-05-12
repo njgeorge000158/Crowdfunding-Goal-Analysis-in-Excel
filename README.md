@@ -8,12 +8,19 @@
 
 ## **Background**
 
+---
+
 Crowdfunding has emerged since the late 2000s as a widely adopted mechanism for product launches, idea validation, and public mobilization. Despite its growth and prominence, the determinants of campaign success are not fully understood. This report analyzes a sample of 1,000 campaigns drawn from a standardized dataset, with outcomes examined across five dimensions: category, timing, goal range, geographic market, and backer distribution.
+
+---
 
 ## Overall Outcomes
 
+---
+
 Of the 1,000 campaigns in the sample, 565 succeeded (56.5%), 364 failed (36.4%), 57 were canceled (5.7%), and 14 were live (1.4%). The combined failure and cancellation rate of 42.1% is a reminder that crowdfunding is far from a reliable funding mechanism for the typical creator. Furthermore, throughout this report, the overall success rate provides the analytical baseline for assessing category-level, temporal, and structural variation.
 
+---
 
 ## **Category Performance: Popularity vs. Success**
 
