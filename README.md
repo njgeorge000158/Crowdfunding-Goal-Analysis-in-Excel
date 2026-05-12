@@ -130,7 +130,7 @@ The median goal size numbers support the success rate analysis. Successful campa
 
 ---
 
-## Timing: Day-of-Week, Monthly, and Yearly Patterns
+## Timing: Day-of-Week, Month, and Year
 
 ---
 
