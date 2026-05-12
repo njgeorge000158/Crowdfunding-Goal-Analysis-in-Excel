@@ -128,7 +128,11 @@ Goal size is a strong structural predictors of campaign outcome in this dataset.
 
 The median goal size numbers support the success rate analysis. Successful campaigns maintain a median goal of 6,200 compared to 9,900 for failed campaigns and 36,400 for canceled ones — a monotonically increasing gradient across outcome groups that, given its magnitude and consistency, is difficult to attribute to sampling variation. Instead, the pattern is reasonably understood as proof that goal discipline is a structural antecedent of success rather than a subsequent characteristic of it. Thus, creators whose goals are calibrated to the realistic capacity of their target audience appear more likely to reach them; conversely, those campaigns whose goals exceed that capacity appear more likely to fall short or withdraw entirely.
 
-## Timing: Monthly and Day-of-Week Patterns
+---
+
+## Timing: Day-of-Week, Monthly, and Yearly Patterns
+
+---
 
 ### Day-of-Week Trends
 
