@@ -316,15 +316,17 @@ In summary, crowdfunding platforms have the operational capacity and the institu
 
 ---
 
-Campaign duration is not statistically linked to outcome in this dataset. The median duration is identical across successful and failed campaigns at 12 days, and the Spearman correlation between duration and percent funded is r ≈ −0.02, a value incompatible with the idea that longer campaign windows improve funding prospects.
+Campaign duration is not statistically linked to outcome in this dataset. The median duration is identical across successful and failed campaigns at 12 days, and the Spearman correlation between duration and percent funded is negligible at −0.02, contradicting the idea that longer campaign windows improve funding prospects.
 
-The duration brackets broadly reflect this situation although with two noteworthy features at the extremes. The 40–49 day bracket posts the highest success rate at 62.7%, but, with only 51 campaigns, it is too thinly populated to support analytical deductions. The 50–59 day bracket collapses to 36.4% — the lowest in the table and 20% below the overall average — while the failure rate rises to 54.5%. Thus, creators with the longest campaigns most likely are those who extended their windows in response to poor early traction skewing the reason for failure towards underperformance rather than long duration.
+The duration brackets broadly reflect this situation although with two noteworthy exceptions at the extreme. The 40–49 day bracket posts the highest success rate but has only 51 campaigns, too low to support statistical inference. Also, the 50–59 day bracket has the lowest success rate, 20% below the overall average, while its failure rate is the highest. Thus, creators with the longest campaigns most likely extended their windows in response to poor early traction skewing the reason for failure towards underperformance instead of long duration.
 
-Collectively, there is little support for treating campaign duration as an option for improving outcomes. The time on platform does not compensate for weak underlying demand, and creators who extend their campaign windows due to poor early performance are unlikely to alter their trajectory. Hence, duration is not a legitimate predictor of success and should not be treated as a viable strategic variable.
+Collectively, there is little support for treating campaign duration as an option for improving outcomes. The time on platform does not compensate for weak underlying demand, and creators with poor early performance who extend their campaign windows are unlikely to alter that trajectory. Thus, duration is not a legitimate predictor of success and should not be treated as a viable strategic variable.
 
 ---
 
 ## Conclusions
+
+---
 
 The data does not support the hypothesis that **category popularity is positively associated with campaign success**.  Theater, Music, and Film & Video collectively account for nearly 70% of campaigns in the sample while recording success rates of 54.4%, 56.6%, and 57.3% respectively — none materially above the 56.5% overall average.  Technology and Photography, representing a substantially smaller share of campaign volume, record success rates of 66.7% and 61.9%.  The inverse relationship between category volume and success rate is one of the more consistent findings in the dataset and carries a direct implication for category selection: high activity within a category reflects competitive intensity rather than favorable conditions, and creators who view volume as a proxy for viability may be systematically misdirecting their efforts.
 
@@ -339,6 +341,8 @@ The analytical validation is consistent across multiple independent measures tha
 ---
 
 ## Limitations and Recommendations
+
+---
 
 Three structural features of the dataset constrain the generalizability of the findings presented in this report. These limitations do not invalidate the analytical conclusions in aggregate, but they impose material restrictions on the inferential weight that specific results — particularly those resting on thin sub-samples — can reliably bear, and they should be held in view when accepting any finding that ventures beyond the broad patterns supported by the full sample.
 
