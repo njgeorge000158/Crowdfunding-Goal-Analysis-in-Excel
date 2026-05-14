@@ -229,13 +229,13 @@ The most defensible inference from these observations is that annual success rat
 | Great Britain   | GBP      | 47        | 59.6%        | 38.3%        | 2.1%          |
 | Italy           | EUR      | 48        | 54.2%        | 39.6%        | 6.3%          |
 | United States   | USD      | 754       | 57.8%        | 36.3%        | 5.8%          |
-| **Grand Total** |          | **986**   | **57.3%**    | **36.9%**    | **5.8%**      |
+| **Grand Total** | n/a      | **986**   | **57.3%**    | **36.9%**    | **5.8%**      |
 
 ---
 
 The dataset's geographic distribution is heavily skewed in favor of the United States, which contributes 754 out of 986 campaigns with no other country accounting for more than 48. The remaining 232 observations are spread across six countries: Great Britain, Italy, Canada, Australia, Denmark, and Switzerland. Moreover, the cross-country success rates exhibit modest variation ranging from 51.2% for Canada to 59.6% for Great Britain. As in other analyses, the confidence intervals surrounding individual country estimates are sufficiently wide to render cross-country differences statistically indistinguishable from sampling variation. Consequently, findings based on the US subsample carry reasonable statistical weight while those based on any non-US countries rest on subsamples too small to support a convincing inference without significant qualification.
 
-The dataset posts goals and pledged amounts using seven currencies (CAD, GBP, EUR, AUD, DKK, CHF, and USD) without normalization to a common monetary unit. Without exchange rate conversions, comparisons of cross-country funding amounts are suspect because observed differences may stem from currency denomination rather than actual variation in goal-setting behavior or backer generosity. Therefore, cross-country funding comparisons should be interpreted cautiously, and any conclusions treated as tentative.
+What's more, the dataset posts goals and pledged amounts using seven currencies without normalization to a common monetary unit. Without exchange rate conversions, comparisons of cross-country funding amounts are suspect because observed differences may stem from currency denomination rather than actual variation in goal-setting behavior or backer generosity. Therefore, cross-country funding comparisons should be interpreted cautiously, and any conclusions treated as tentative.
 
 ---
 
