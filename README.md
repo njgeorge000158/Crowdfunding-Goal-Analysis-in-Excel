@@ -43,7 +43,7 @@ Of the 1,000 campaigns in the sample, 565 succeed, 364 fail, 57 are canceled, an
 
 ---
 
-Across both primary and subcategory levels, the divergence between campaign volume and success rate is among the most important. Technology, Photography, and Publishing lead in success rates at the primary category level but do not rank in the top three categories by volume. That distinction belongs to Theater, Film & Video, and Music, which succeed at or below the overall average while collectively accounting for nearly 70% of all campaigns.
+Across both primary and subcategory levels, the divergence between campaign volume and success rate is among the most important. Technology, Photography, and Publishing lead in success rates at the primary category level but do not rank as the top three categories by volume. That distinction belongs to Theater, Film & Video, and Music, which succeed at or below the overall average while collectively accounting for nearly 70% of all campaigns.
 
 The subcategory success rates generally support this picture. The highest-performing subcategories — Web within Technology, Translations within Publishing, Television within Film and Video, and Wearables within Technology — predominantly come from primary categories that rank towards the top of the success rate distribution, implying that primary category selection carries predictive weight at the subcategory level as well.
 
