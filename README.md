@@ -10,7 +10,7 @@
 
 ---
 
-Crowdfunding has emerged since the late 2000s as a widely adopted mechanism for product launches, idea validation, and public mobilization. Despite its growth and prominence, the determinants of campaign success are not fully understood. This report analyzes a sample of 1,000 campaigns drawn from a standardized dataset, with outcomes examined across five dimensions: category, timing, goal range, geographic market, and backer distribution.
+Crowdfunding has emerged since the late 2000s as a widely adopted mechanism for product launches, idea validation, and public mobilization. Despite its growth and prominence, the determinants of campaign success are not fully understood. This report analyzes a sample of 1,000 campaigns drawn from a standardized dataset with outcomes examined across five dimensions: category, timing, goal range, geographic market, and backer distribution.
 
 ---
 
