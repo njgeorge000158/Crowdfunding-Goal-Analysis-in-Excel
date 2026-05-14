@@ -275,7 +275,7 @@ An examination of goal and pledged amount standard deviations across outcome gro
 
 Conversely, successful campaigns display the opposite relationship where the standard deviation of pledged amounts exceeds that of goals. There are two mechanisms that account for this phenomenon. First, successful campaigns have the lowest standard deviation of goal among all outcome groups suggesting a more disciplined approach to setting targets. Second, pledged amounts for successful campaigns are structurally unbounded. Specifically, after the total pledged amount clears the target, contributions continue to accumulate beyond it, generating a distribution in which audience enthusiasm rather than campaign design establishes the upper range. This combination of compressed goal variance and unbounded pledge variance produces the observed reversal and distinguishes the distributional profile of successful campaigns.
 
-Overall, high goal variance and low pledge variance characterize failed and canceled campaigns while low goal variance and high pledge variance characterize successful campaigns. Accordingly, goal discipline functions as an antecedent of success rather than a correlate, a condition that precedes and enables favorable outcomes rather than simply accompanying them.
+Overall, high goal variance and low pledge variance define failed and canceled campaigns while low goal variance and high pledge variance characterize successful campaigns. Accordingly, goal discipline functions as an antecedent of success rather than a correlate, a condition that precedes and enables favorable outcomes rather than simply accompanying them.
 
 ---
 
