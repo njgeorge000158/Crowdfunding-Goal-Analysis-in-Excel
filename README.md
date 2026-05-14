@@ -344,7 +344,7 @@ In closing, multiple independent indicators point to the conclusion that success
 
 ---
 
-Three structural features of the dataset limit how broadly this report's findings can be generalized. Although these constraints do not undercut the report’s overall conclusions, they do diminish the inferential strength of observations from small subsamples. Accordingly, conclusions drawn from findings that extend beyond broad patterns should be viewed with caution.
+Three structural features of the dataset limit how widely this report's findings can be generalized. Although these constraints do not undercut the report’s overall conclusions, they do diminish the inferential strength of observations from small subsamples. Accordingly, conclusions drawn from findings that extend beyond broad patterns should be viewed with caution.
 
 **Sample size.** The 1,000-campaign dataset is sufficient to identify general patterns and aggregate relationships but insufficient to support reliable subgroup inference in several parts of the analysis. High-goal tiers, non-US country samples, and less common subcategories each contain fewer than 50 observations, a range in which estimates become unstable and confidence intervals widen enough to allow materially different interpretations. Consequently, findings based on the full sample or on larger subgroups carry reasonable evidentiary weight whereas results drawn from small subsamples should be treated as provisional. In the future, expanding the dataset by one to two orders of magnitude would substantially reduce these limitations and allow the same analytical framework to be applied with much greater confidence.
 
