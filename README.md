@@ -220,16 +220,16 @@ The most defensible inference from these observations is that annual success rat
 
 ---
 
-| Country         | Campaigns | Success Rate | Failure Rate | Canceled Rate |
-|-----------------|:---------:|:------------:|:------------:|:-------------:|
-| Australia       | 42        | 57.1%        | 38.1%        | 4.8%          |
-| Canada          | 43        | 51.2%        | 44.2%        | 4.7%          |
-| Switzerland     | 22        | 54.5%        | 27.3%        | 18.2%         |
-| Denmark         | 30        | 56.7%        | 40.0%        | 3.3%          |
-| Great Britain   | 47        | 59.6%        | 38.3%        | 2.1%          |
-| Italy           | 48        | 54.2%        | 39.6%        | 6.3%          |
-| United States   | 754       | 57.8%        | 36.3%        | 5.8%          |
-| **Grand Total** | **986**   | **57.3%**    | **36.9%**    | **5.8%**      |
+| Country         | Currency | Campaigns | Success Rate | Failure Rate | Canceled Rate |
+|-----------------|:--------:|:---------:|:------------:|:------------:|:-------------:|
+| Australia       | AUD      | 42        | 57.1%        | 38.1%        | 4.8%          |
+| Canada          | CAD      | 43        | 51.2%        | 44.2%        | 4.7%          |
+| Switzerland     | CHF      | 22        | 54.5%        | 27.3%        | 18.2%         |
+| Denmark         | DKK      | 30        | 56.7%        | 40.0%        | 3.3%          |
+| Great Britain   | GBP      | 47        | 59.6%        | 38.3%        | 2.1%          |
+| Italy           | EUR      | 48        | 54.2%        | 39.6%        | 6.3%          |
+| United States   | USD      | 754       | 57.8%        | 36.3%        | 5.8%          |
+| **Grand Total** |          | **986**   | **57.3%**    | **36.9%**    | **5.8%**      |
 
 ---
 
