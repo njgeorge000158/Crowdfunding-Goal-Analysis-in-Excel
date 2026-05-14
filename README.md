@@ -151,7 +151,7 @@ Successful campaigns maintain a median goal of 6,200 compared to 9,900 for faile
 
 ---
 
-Day-of-week launch timing produces a distinguishable but irregular pattern best described as a three-tier structure rather than a continuous gradient. Monday returns the highest success rate at 65.8%, and Friday, the distribution's clearest outlier, records the lowest at 51.0%. Sunday and Saturday occupy intermediate positions modestly above the overall average of 57.3% while Tuesday, Wednesday, and Thursday cluster between 54.9% and 56.4%. 
+Day-of-week launch timing produces a distinguishable but irregular pattern best described as a three-tier system rather than a continuous gradient. Monday returns the highest success rate at 65.8%, and Friday, the distribution's clearest outlier, records the lowest at 51.0%. Sunday and Saturday occupy intermediate positions modestly above the overall average of 57.3% while Tuesday, Wednesday, and Thursday cluster between 54.9% and 56.4%. 
 
 The implications of these findings vary extensively. With only 127 to 152 campaigns per weekday, the confidence intervals of these samples are adequately wide, and the range of success rates sufficiently compressed, to treat midweek differences as statistical noise. Nevertheless, the Monday-Friday differential of 14.8 percentage points is directionally credible under reasonable sampling variability assumptions although the intermediate tiers are suggestive rather than definitive. In short, creators with discretion over launch timing should prefer Mondays, avoid Fridays, and treat the intervening days as effectively interchangeable.
 
