@@ -254,7 +254,7 @@ The dataset posts goals and pledged amounts using seven currencies (CAD, GBP, EU
 
 The backer count distribution displays positive skew of appropriate magnitude to produce tangible divergence between mean and median across all outcome groups. The disparity is most pronounced for successful campaigns when comparing a median of 201 to a mean of 851, an over fourfold difference attributable to a small number of high-visibility campaigns with unusually high backer counts. In effect, these unusual campaigns overstate backer mobilization by weighting the influence of outliers over the representative campaign experience.
 
-Beyond a mean-median deviation, the backer count distribution manifests a secondary pattern of analytical interest. Usually, failed and canceled campaigns generate low backer counts and a constrained range demonstrating a failure to mobilize necessary audience support. In contrast, successful campaigns exhibit a different distributional profile with high backer counts spanning a full range from modest community support to large-scale viral mobilization. Thus, the findings suppose an idiosyncrasy of relatively homogeneous failure and heterogeneous success. 
+Beyond a mean-median deviation, the backer count distribution manifests a secondary pattern of analytical interest. Usually, failed and canceled campaigns have low backer counts and a constrained range demonstrating a failure to mobilize necessary audience support. In contrast, successful campaigns exhibit a different distributional profile with high backer counts spanning a full range from modest community support to large-scale viral mobilization. Thus, the findings suppose an idiosyncrasy of relatively homogeneous failure and heterogeneous success. 
 
 ---
 
